@@ -1,0 +1,3202 @@
+{
+    "id": "2d21e5ac-5fb3-4d83-940e-ddeb7b530477",
+    "status": "Succeeded",
+    "result": {
+        "analyzerId": "triggers_analyzer",
+        "apiVersion": "2024-12-01-preview",
+        "createdAt": "2025-03-23T16:31:40Z",
+        "warnings": [
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[0]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[1]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Sexual' detected with severity 'Medium'. Please use the field content with caution.",
+                "target": "Result.Contents[2]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[2]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[3]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[4]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[5]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[6]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[7]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[8]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[9]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[10]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[11]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[12]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[13]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[14]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[15]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[16]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'SelfHarm' detected with severity 'High'. Please use the field content with caution.",
+                "target": "Result.Contents[16]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[17]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[18]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[19]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[20]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[21]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[22]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[23]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[24]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[25]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[26]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[27]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[28]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[29]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[30]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[31]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[32]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Sexual' detected with severity 'High'. Please use the field content with caution.",
+                "target": "Result.Contents[33]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Medium'. Please use the field content with caution.",
+                "target": "Result.Contents[33]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Medium'. Please use the field content with caution.",
+                "target": "Result.Contents[34]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Medium'. Please use the field content with caution.",
+                "target": "Result.Contents[35]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Medium'. Please use the field content with caution.",
+                "target": "Result.Contents[36]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Medium'. Please use the field content with caution.",
+                "target": "Result.Contents[37]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Medium'. Please use the field content with caution.",
+                "target": "Result.Contents[38]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Medium'. Please use the field content with caution.",
+                "target": "Result.Contents[39]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Medium'. Please use the field content with caution.",
+                "target": "Result.Contents[40]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[41]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[42]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Sexual' detected with severity 'High'. Please use the field content with caution.",
+                "target": "Result.Contents[43]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'High'. Please use the field content with caution.",
+                "target": "Result.Contents[43]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[44]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[45]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[46]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[47]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[48]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[49]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[50]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[51]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[52]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[53]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[54]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[55]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[56]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[57]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[58]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[59]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[60]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[61]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[62]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[63]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[64]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[65]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[66]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[67]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[68]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[69]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[70]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[71]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[72]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Sexual' detected with severity 'High'. Please use the field content with caution.",
+                "target": "Result.Contents[73]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[73]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Hate' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[74]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[74]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[75]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[76]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[77]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[78]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[79]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[80]"
+            }
+        ],
+        "contents": [
+            {
+                "markdown": "# Shot 00:00.000 => 00:00.480\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:00.240 ![](keyFrame.240.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 0,
+                "endTimeMs": 480,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:00.480 => 00:03.840\n## Transcript\n```\nWEBVTT\n\n00:03.200 --> 00:04.000\n<v Speaker>Teardrops.\n```\n## Key Frames\n- 00:01.320 ![](keyFrame.1320.jpg)\n- 00:02.160 ![](keyFrame.2160.jpg)\n- 00:03.000 ![](keyFrame.3000.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 480,
+                "endTimeMs": 3840,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:03.840 => 00:08.280\n## Transcript\n```\nWEBVTT\n\n00:03.200 --> 00:04.000\n<v Speaker>Teardrops.\n```\n## Key Frames\n- 00:04.720 ![](keyFrame.4720.jpg)\n- 00:05.600 ![](keyFrame.5600.jpg)\n- 00:06.480 ![](keyFrame.6480.jpg)\n- 00:07.360 ![](keyFrame.7360.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 3840,
+                "endTimeMs": 8280,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:08.280 => 00:11.119\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:09.000 ![](keyFrame.9000.jpg)\n- 00:09.720 ![](keyFrame.9720.jpg)\n- 00:10.440 ![](keyFrame.10440.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 8280,
+                "endTimeMs": 11120,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:11.119 => 00:12.600\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:11.880 ![](keyFrame.11880.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 11120,
+                "endTimeMs": 12600,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:12.600 => 00:13.200\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:12.920 ![](keyFrame.12920.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 12600,
+                "endTimeMs": 13200,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:13.200 => 00:13.840\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:13.520 ![](keyFrame.13520.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 13200,
+                "endTimeMs": 13840,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:13.840 => 00:18.800\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:14.640 ![](keyFrame.14640.jpg)\n- 00:15.440 ![](keyFrame.15440.jpg)\n- 00:16.240 ![](keyFrame.16240.jpg)\n- 00:17.040 ![](keyFrame.17040.jpg)\n- 00:17.840 ![](keyFrame.17840.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 13840,
+                "endTimeMs": 18800,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:18.800 => 00:21.520\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:19.480 ![](keyFrame.19480.jpg)\n- 00:20.160 ![](keyFrame.20160.jpg)\n- 00:20.840 ![](keyFrame.20840.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 18800,
+                "endTimeMs": 21520,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:21.520 => 00:33.840\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:22.440 ![](keyFrame.22440.jpg)\n- 00:23.360 ![](keyFrame.23360.jpg)\n- 00:24.280 ![](keyFrame.24280.jpg)\n- 00:25.200 ![](keyFrame.25200.jpg)\n- 00:26.120 ![](keyFrame.26120.jpg)\n- 00:27.040 ![](keyFrame.27040.jpg)\n- 00:27.960 ![](keyFrame.27960.jpg)\n- 00:28.880 ![](keyFrame.28880.jpg)\n- 00:29.800 ![](keyFrame.29800.jpg)\n- 00:30.720 ![](keyFrame.30720.jpg)\n- 00:31.640 ![](keyFrame.31640.jpg)\n- 00:32.560 ![](keyFrame.32560.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 21520,
+                "endTimeMs": 33840,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:33.840 => 00:38.880\n## Transcript\n```\nWEBVTT\n\n00:34.240 --> 00:47.440\n<v Speaker>We hurt ourselves for fun, force feet of fear until our hearts go numb, addicted to a lonely kind of love.\n```\n## Key Frames\n- 00:34.680 ![](keyFrame.34680.jpg)\n- 00:35.520 ![](keyFrame.35520.jpg)\n- 00:36.360 ![](keyFrame.36360.jpg)\n- 00:37.200 ![](keyFrame.37200.jpg)\n- 00:38.040 ![](keyFrame.38040.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 33840,
+                "endTimeMs": 38880,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:38.880 => 00:41.479\n## Transcript\n```\nWEBVTT\n\n00:34.240 --> 00:47.440\n<v Speaker>We hurt ourselves for fun, force feet of fear until our hearts go numb, addicted to a lonely kind of love.\n```\n## Key Frames\n- 00:39.520 ![](keyFrame.39520.jpg)\n- 00:40.160 ![](keyFrame.40160.jpg)\n- 00:40.800 ![](keyFrame.40800.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 38880,
+                "endTimeMs": 41480,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:41.479 => 00:43.760\n## Transcript\n```\nWEBVTT\n\n00:34.240 --> 00:47.440\n<v Speaker>We hurt ourselves for fun, force feet of fear until our hearts go numb, addicted to a lonely kind of love.\n```\n## Key Frames\n- 00:42.240 ![](keyFrame.42240.jpg)\n- 00:43.000 ![](keyFrame.43000.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 41480,
+                "endTimeMs": 43760,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:43.760 => 00:48.920\n## Transcript\n```\nWEBVTT\n\n00:34.240 --> 00:47.440\n<v Speaker>We hurt ourselves for fun, force feet of fear until our hearts go numb, addicted to a lonely kind of love.\n00:47.440 --> 00:56.960\n<v Speaker>What I want to know is how we got this dress down paranoid.\n```\n## Key Frames\n- 00:44.600 ![](keyFrame.44600.jpg)\n- 00:45.440 ![](keyFrame.45440.jpg)\n- 00:46.280 ![](keyFrame.46280.jpg)\n- 00:47.120 ![](keyFrame.47120.jpg)\n- 00:47.960 ![](keyFrame.47960.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 43760,
+                "endTimeMs": 48920,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:48.920 => 00:51.560\n## Transcript\n```\nWEBVTT\n\n00:47.440 --> 00:56.960\n<v Speaker>What I want to know is how we got this dress down paranoid.\n```\n## Key Frames\n- 00:49.560 ![](keyFrame.49560.jpg)\n- 00:50.200 ![](keyFrame.50200.jpg)\n- 00:50.840 ![](keyFrame.50840.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 48920,
+                "endTimeMs": 51560,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:51.560 => 00:53.840\n## Transcript\n```\nWEBVTT\n\n00:47.440 --> 00:56.960\n<v Speaker>What I want to know is how we got this dress down paranoid.\n```\n## Key Frames\n- 00:52.320 ![](keyFrame.52320.jpg)\n- 00:53.080 ![](keyFrame.53080.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 51560,
+                "endTimeMs": 53840,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:53.840 => 00:56.320\n## Transcript\n```\nWEBVTT\n\n00:47.440 --> 00:56.960\n<v Speaker>What I want to know is how we got this dress down paranoid.\n```\n## Key Frames\n- 00:54.680 ![](keyFrame.54680.jpg)\n- 00:55.520 ![](keyFrame.55520.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 53840,
+                "endTimeMs": 56320,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:56.320 => 00:58.880\n## Transcript\n```\nWEBVTT\n\n00:47.440 --> 00:56.960\n<v Speaker>What I want to know is how we got this dress down paranoid.\n00:56.960 --> 00:57.800\n<v Speaker>Everything is going dark.\n00:57.800 --> 01:02.080\n<v Speaker>Nothing makes me sadder than my head.\n```\n## Key Frames\n- 00:56.960 ![](keyFrame.56960.jpg)\n- 00:57.600 ![](keyFrame.57600.jpg)\n- 00:58.240 ![](keyFrame.58240.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 56320,
+                "endTimeMs": 58880,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:58.880 => 01:03.760\n## Transcript\n```\nWEBVTT\n\n00:57.800 --> 01:02.080\n<v Speaker>Nothing makes me sadder than my head.\n01:03.040 --> 01:27.920\n<v Speaker>I'm running out of teardrops Let it hurt till it stops I can't keep my grip I'm slipping away from me Oh God Everything is so far But I can't feel a thing The emptiness is heavier than you think I'm tripping on the edge\n```\n## Key Frames\n- 00:59.680 ![](keyFrame.59680.jpg)\n- 01:00.480 ![](keyFrame.60480.jpg)\n- 01:01.280 ![](keyFrame.61280.jpg)\n- 01:02.080 ![](keyFrame.62080.jpg)\n- 01:02.880 ![](keyFrame.62880.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 58880,
+                "endTimeMs": 63760,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:03.760 => 01:05.120\n## Transcript\n```\nWEBVTT\n\n01:03.040 --> 01:27.920\n<v Speaker>I'm running out of teardrops Let it hurt till it stops I can't keep my grip I'm slipping away from me Oh God Everything is so far But I can't feel a thing The emptiness is heavier than you think I'm tripping on the edge\n```\n## Key Frames\n- 01:04.440 ![](keyFrame.64440.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 63760,
+                "endTimeMs": 65120,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:05.120 => 01:07.480\n## Transcript\n```\nWEBVTT\n\n01:03.040 --> 01:27.920\n<v Speaker>I'm running out of teardrops Let it hurt till it stops I can't keep my grip I'm slipping away from me Oh God Everything is so far But I can't feel a thing The emptiness is heavier than you think I'm tripping on the edge\n```\n## Key Frames\n- 01:05.920 ![](keyFrame.65920.jpg)\n- 01:06.720 ![](keyFrame.66720.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 65120,
+                "endTimeMs": 67480,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:07.480 => 01:12.840\n## Transcript\n```\nWEBVTT\n\n01:03.040 --> 01:27.920\n<v Speaker>I'm running out of teardrops Let it hurt till it stops I can't keep my grip I'm slipping away from me Oh God Everything is so far But I can't feel a thing The emptiness is heavier than you think I'm tripping on the edge\n```\n## Key Frames\n- 01:08.360 ![](keyFrame.68360.jpg)\n- 01:09.240 ![](keyFrame.69240.jpg)\n- 01:10.120 ![](keyFrame.70120.jpg)\n- 01:11.000 ![](keyFrame.71000.jpg)\n- 01:11.880 ![](keyFrame.71880.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 67480,
+                "endTimeMs": 72840,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:12.840 => 01:14.760\n## Transcript\n```\nWEBVTT\n\n01:03.040 --> 01:27.920\n<v Speaker>I'm running out of teardrops Let it hurt till it stops I can't keep my grip I'm slipping away from me Oh God Everything is so far But I can't feel a thing The emptiness is heavier than you think I'm tripping on the edge\n```\n## Key Frames\n- 01:13.480 ![](keyFrame.73480.jpg)\n- 01:14.120 ![](keyFrame.74120.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 72840,
+                "endTimeMs": 74760,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:14.760 => 01:17.440\n## Transcript\n```\nWEBVTT\n\n01:03.040 --> 01:27.920\n<v Speaker>I'm running out of teardrops Let it hurt till it stops I can't keep my grip I'm slipping away from me Oh God Everything is so far But I can't feel a thing The emptiness is heavier than you think I'm tripping on the edge\n```\n## Key Frames\n- 01:15.440 ![](keyFrame.75440.jpg)\n- 01:16.120 ![](keyFrame.76120.jpg)\n- 01:16.800 ![](keyFrame.76800.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 74760,
+                "endTimeMs": 77440,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:17.440 => 01:19.640\n## Transcript\n```\nWEBVTT\n\n01:03.040 --> 01:27.920\n<v Speaker>I'm running out of teardrops Let it hurt till it stops I can't keep my grip I'm slipping away from me Oh God Everything is so far But I can't feel a thing The emptiness is heavier than you think I'm tripping on the edge\n```\n## Key Frames\n- 01:18.160 ![](keyFrame.78160.jpg)\n- 01:18.880 ![](keyFrame.78880.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 77440,
+                "endTimeMs": 79640,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:19.640 => 01:23.840\n## Transcript\n```\nWEBVTT\n\n01:03.040 --> 01:27.920\n<v Speaker>I'm running out of teardrops Let it hurt till it stops I can't keep my grip I'm slipping away from me Oh God Everything is so far But I can't feel a thing The emptiness is heavier than you think I'm tripping on the edge\n```\n## Key Frames\n- 01:20.480 ![](keyFrame.80480.jpg)\n- 01:21.320 ![](keyFrame.81320.jpg)\n- 01:22.160 ![](keyFrame.82160.jpg)\n- 01:23.000 ![](keyFrame.83000.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 79640,
+                "endTimeMs": 83840,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:23.840 => 01:27.440\n## Transcript\n```\nWEBVTT\n\n01:03.040 --> 01:27.920\n<v Speaker>I'm running out of teardrops Let it hurt till it stops I can't keep my grip I'm slipping away from me Oh God Everything is so far But I can't feel a thing The emptiness is heavier than you think I'm tripping on the edge\n```\n## Key Frames\n- 01:24.560 ![](keyFrame.84560.jpg)\n- 01:25.280 ![](keyFrame.85280.jpg)\n- 01:26.000 ![](keyFrame.86000.jpg)\n- 01:26.720 ![](keyFrame.86720.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 83840,
+                "endTimeMs": 87440,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:27.440 => 01:28.920\n## Transcript\n```\nWEBVTT\n\n01:03.040 --> 01:27.920\n<v Speaker>I'm running out of teardrops Let it hurt till it stops I can't keep my grip I'm slipping away from me Oh God Everything is so far But I can't feel a thing The emptiness is heavier than you think I'm tripping on the edge\n```\n## Key Frames\n- 01:28.200 ![](keyFrame.88200.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 87440,
+                "endTimeMs": 88920,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:28.920 => 01:33.840\n## Transcript\n```\nWEBVTT\n\n01:29.560 --> 01:51.400\n<v Speaker>High as a kite on never coming down And if you hear me, guess you know how it feels to be alone It's how we get distressed out, paranoid Everything is going dark Nothing makes me sadder than my head\n```\n## Key Frames\n- 01:29.720 ![](keyFrame.89720.jpg)\n- 01:30.520 ![](keyFrame.90520.jpg)\n- 01:31.320 ![](keyFrame.91320.jpg)\n- 01:32.120 ![](keyFrame.92120.jpg)\n- 01:32.920 ![](keyFrame.92920.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 88920,
+                "endTimeMs": 93840,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:33.840 => 01:35.360\n## Transcript\n```\nWEBVTT\n\n01:29.560 --> 01:51.400\n<v Speaker>High as a kite on never coming down And if you hear me, guess you know how it feels to be alone It's how we get distressed out, paranoid Everything is going dark Nothing makes me sadder than my head\n```\n## Key Frames\n- 01:34.360 ![](keyFrame.94360.jpg)\n- 01:34.880 ![](keyFrame.94880.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 93840,
+                "endTimeMs": 95360,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:35.360 => 01:37.240\n## Transcript\n```\nWEBVTT\n\n01:29.560 --> 01:51.400\n<v Speaker>High as a kite on never coming down And if you hear me, guess you know how it feels to be alone It's how we get distressed out, paranoid Everything is going dark Nothing makes me sadder than my head\n```\n## Key Frames\n- 01:36.000 ![](keyFrame.96000.jpg)\n- 01:36.640 ![](keyFrame.96640.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 95360,
+                "endTimeMs": 97240,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:37.240 => 01:41.360\n## Transcript\n```\nWEBVTT\n\n01:29.560 --> 01:51.400\n<v Speaker>High as a kite on never coming down And if you hear me, guess you know how it feels to be alone It's how we get distressed out, paranoid Everything is going dark Nothing makes me sadder than my head\n```\n## Key Frames\n- 01:38.040 ![](keyFrame.98040.jpg)\n- 01:38.840 ![](keyFrame.98840.jpg)\n- 01:39.640 ![](keyFrame.99640.jpg)\n- 01:40.440 ![](keyFrame.100440.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 97240,
+                "endTimeMs": 101360,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:41.360 => 01:43.760\n## Transcript\n```\nWEBVTT\n\n01:29.560 --> 01:51.400\n<v Speaker>High as a kite on never coming down And if you hear me, guess you know how it feels to be alone It's how we get distressed out, paranoid Everything is going dark Nothing makes me sadder than my head\n```\n## Key Frames\n- 01:42.160 ![](keyFrame.102160.jpg)\n- 01:42.960 ![](keyFrame.102960.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 101360,
+                "endTimeMs": 103760,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:43.760 => 01:53.760\n## Transcript\n```\nWEBVTT\n\n01:29.560 --> 01:51.400\n<v Speaker>High as a kite on never coming down And if you hear me, guess you know how it feels to be alone It's how we get distressed out, paranoid Everything is going dark Nothing makes me sadder than my head\n```\n## Key Frames\n- 01:44.640 ![](keyFrame.104640.jpg)\n- 01:45.520 ![](keyFrame.105520.jpg)\n- 01:46.400 ![](keyFrame.106400.jpg)\n- 01:47.280 ![](keyFrame.107280.jpg)\n- 01:48.160 ![](keyFrame.108160.jpg)\n- 01:49.040 ![](keyFrame.109040.jpg)\n- 01:49.920 ![](keyFrame.109920.jpg)\n- 01:50.800 ![](keyFrame.110800.jpg)\n- 01:51.680 ![](keyFrame.111680.jpg)\n- 01:52.560 ![](keyFrame.112560.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 103760,
+                "endTimeMs": 113760,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:53.760 => 01:58.720\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:54.560 ![](keyFrame.114560.jpg)\n- 01:55.360 ![](keyFrame.115360.jpg)\n- 01:56.160 ![](keyFrame.116160.jpg)\n- 01:56.960 ![](keyFrame.116960.jpg)\n- 01:57.760 ![](keyFrame.117760.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Drowning\": [\"00:01:54.560\", \"00:01:55.360\", \"00:01:56.160\", \"00:01:56.960\", \"00:01:57.760\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 113760,
+                "endTimeMs": 118720,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:58.720 => 02:02.320\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:59.440 ![](keyFrame.119440.jpg)\n- 02:00.160 ![](keyFrame.120160.jpg)\n- 02:00.880 ![](keyFrame.120880.jpg)\n- 02:01.600 ![](keyFrame.121600.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Drowning\": [\"00:01:59.440\", \"00:02:00.160\", \"00:02:00.880\", \"00:02:01.600\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 118720,
+                "endTimeMs": 122320,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:02.320 => 02:03.840\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:02.840 ![](keyFrame.122840.jpg)\n- 02:03.360 ![](keyFrame.123360.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 122320,
+                "endTimeMs": 123840,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:03.840 => 02:04.960\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:04.400 ![](keyFrame.124400.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Drowning\": [\"00:02:04.400\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 123840,
+                "endTimeMs": 124960,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:04.960 => 02:07.200\n## Transcript\n```\nWEBVTT\n\n02:05.320 --> 02:32.960\n<v Speaker>Everything is so full But I can't feel the sin The emptiness is heavier than you think Suicidal, violent, tragic state of mind Lost my halo, now I'm my own antichrist Suicidal, violent, tragic state of life Lost my halo, now I'm my own antichrist\n```\n## Key Frames\n- 02:05.720 ![](keyFrame.125720.jpg)\n- 02:06.480 ![](keyFrame.126480.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Drowning\": [\"00:02:05.720\", \"00:02:06.480\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 124960,
+                "endTimeMs": 127200,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:07.200 => 02:09.520\n## Transcript\n```\nWEBVTT\n\n02:05.320 --> 02:32.960\n<v Speaker>Everything is so full But I can't feel the sin The emptiness is heavier than you think Suicidal, violent, tragic state of mind Lost my halo, now I'm my own antichrist Suicidal, violent, tragic state of life Lost my halo, now I'm my own antichrist\n```\n## Key Frames\n- 02:07.960 ![](keyFrame.127960.jpg)\n- 02:08.720 ![](keyFrame.128720.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 127200,
+                "endTimeMs": 129520,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:09.520 => 02:13.680\n## Transcript\n```\nWEBVTT\n\n02:05.320 --> 02:32.960\n<v Speaker>Everything is so full But I can't feel the sin The emptiness is heavier than you think Suicidal, violent, tragic state of mind Lost my halo, now I'm my own antichrist Suicidal, violent, tragic state of life Lost my halo, now I'm my own antichrist\n```\n## Key Frames\n- 02:10.360 ![](keyFrame.130360.jpg)\n- 02:11.200 ![](keyFrame.131200.jpg)\n- 02:12.040 ![](keyFrame.132040.jpg)\n- 02:12.880 ![](keyFrame.132880.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Drowning\": [\"00:02:10.360\", \"00:02:11.200\", \"00:02:12.040\", \"00:02:12.880\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 129520,
+                "endTimeMs": 133680,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:13.680 => 02:23.600\n## Transcript\n```\nWEBVTT\n\n02:05.320 --> 02:32.960\n<v Speaker>Everything is so full But I can't feel the sin The emptiness is heavier than you think Suicidal, violent, tragic state of mind Lost my halo, now I'm my own antichrist Suicidal, violent, tragic state of life Lost my halo, now I'm my own antichrist\n```\n## Key Frames\n- 02:14.560 ![](keyFrame.134560.jpg)\n- 02:15.440 ![](keyFrame.135440.jpg)\n- 02:16.320 ![](keyFrame.136320.jpg)\n- 02:17.200 ![](keyFrame.137200.jpg)\n- 02:18.080 ![](keyFrame.138080.jpg)\n- 02:18.960 ![](keyFrame.138960.jpg)\n- 02:19.840 ![](keyFrame.139840.jpg)\n- 02:20.720 ![](keyFrame.140720.jpg)\n- 02:21.600 ![](keyFrame.141600.jpg)\n- 02:22.480 ![](keyFrame.142480.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 133680,
+                "endTimeMs": 143600,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:23.600 => 02:24.760\n## Transcript\n```\nWEBVTT\n\n02:05.320 --> 02:32.960\n<v Speaker>Everything is so full But I can't feel the sin The emptiness is heavier than you think Suicidal, violent, tragic state of mind Lost my halo, now I'm my own antichrist Suicidal, violent, tragic state of life Lost my halo, now I'm my own antichrist\n```\n## Key Frames\n- 02:24.200 ![](keyFrame.144200.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 143600,
+                "endTimeMs": 144760,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:24.760 => 02:25.919\n## Transcript\n```\nWEBVTT\n\n02:05.320 --> 02:32.960\n<v Speaker>Everything is so full But I can't feel the sin The emptiness is heavier than you think Suicidal, violent, tragic state of mind Lost my halo, now I'm my own antichrist Suicidal, violent, tragic state of life Lost my halo, now I'm my own antichrist\n```\n## Key Frames\n- 02:25.360 ![](keyFrame.145360.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 144760,
+                "endTimeMs": 145920,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:25.919 => 02:27.240\n## Transcript\n```\nWEBVTT\n\n02:05.320 --> 02:32.960\n<v Speaker>Everything is so full But I can't feel the sin The emptiness is heavier than you think Suicidal, violent, tragic state of mind Lost my halo, now I'm my own antichrist Suicidal, violent, tragic state of life Lost my halo, now I'm my own antichrist\n```\n## Key Frames\n- 02:26.600 ![](keyFrame.146600.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 145920,
+                "endTimeMs": 147240,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:27.240 => 02:28.520\n## Transcript\n```\nWEBVTT\n\n02:05.320 --> 02:32.960\n<v Speaker>Everything is so full But I can't feel the sin The emptiness is heavier than you think Suicidal, violent, tragic state of mind Lost my halo, now I'm my own antichrist Suicidal, violent, tragic state of life Lost my halo, now I'm my own antichrist\n```\n## Key Frames\n- 02:27.880 ![](keyFrame.147880.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 147240,
+                "endTimeMs": 148520,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:28.520 => 02:30.120\n## Transcript\n```\nWEBVTT\n\n02:05.320 --> 02:32.960\n<v Speaker>Everything is so full But I can't feel the sin The emptiness is heavier than you think Suicidal, violent, tragic state of mind Lost my halo, now I'm my own antichrist Suicidal, violent, tragic state of life Lost my halo, now I'm my own antichrist\n```\n## Key Frames\n- 02:29.040 ![](keyFrame.149040.jpg)\n- 02:29.560 ![](keyFrame.149560.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 148520,
+                "endTimeMs": 150120,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:30.120 => 02:30.840\n## Transcript\n```\nWEBVTT\n\n02:05.320 --> 02:32.960\n<v Speaker>Everything is so full But I can't feel the sin The emptiness is heavier than you think Suicidal, violent, tragic state of mind Lost my halo, now I'm my own antichrist Suicidal, violent, tragic state of life Lost my halo, now I'm my own antichrist\n```\n## Key Frames\n- 02:30.480 ![](keyFrame.150480.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 150120,
+                "endTimeMs": 150840,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:30.840 => 02:32.160\n## Transcript\n```\nWEBVTT\n\n02:05.320 --> 02:32.960\n<v Speaker>Everything is so full But I can't feel the sin The emptiness is heavier than you think Suicidal, violent, tragic state of mind Lost my halo, now I'm my own antichrist Suicidal, violent, tragic state of life Lost my halo, now I'm my own antichrist\n```\n## Key Frames\n- 02:31.520 ![](keyFrame.151520.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 150840,
+                "endTimeMs": 152160,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:32.160 => 02:32.600\n## Transcript\n```\nWEBVTT\n\n02:05.320 --> 02:32.960\n<v Speaker>Everything is so full But I can't feel the sin The emptiness is heavier than you think Suicidal, violent, tragic state of mind Lost my halo, now I'm my own antichrist Suicidal, violent, tragic state of life Lost my halo, now I'm my own antichrist\n```\n## Key Frames\n- 02:32.400 ![](keyFrame.152400.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 152160,
+                "endTimeMs": 152600,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:32.600 => 02:33.240\n## Transcript\n```\nWEBVTT\n\n02:05.320 --> 02:32.960\n<v Speaker>Everything is so full But I can't feel the sin The emptiness is heavier than you think Suicidal, violent, tragic state of mind Lost my halo, now I'm my own antichrist Suicidal, violent, tragic state of life Lost my halo, now I'm my own antichrist\n```\n## Key Frames\n- 02:32.920 ![](keyFrame.152920.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 152600,
+                "endTimeMs": 153240,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:33.240 => 02:33.880\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:33.560 ![](keyFrame.153560.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 153240,
+                "endTimeMs": 153880,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:33.880 => 02:38.520\n## Transcript\n```\nWEBVTT\n\n02:34.320 --> 02:37.360\n<v Speaker>Hair drops, let it hurt till it stops.\n02:37.520 --> 02:41.960\n<v Speaker>I can't keep my grip, palms slipping away from me.\n```\n## Key Frames\n- 02:34.640 ![](keyFrame.154640.jpg)\n- 02:35.400 ![](keyFrame.155400.jpg)\n- 02:36.160 ![](keyFrame.156160.jpg)\n- 02:36.920 ![](keyFrame.156920.jpg)\n- 02:37.680 ![](keyFrame.157680.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 153880,
+                "endTimeMs": 158520,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:38.520 => 02:43.800\n## Transcript\n```\nWEBVTT\n\n02:37.520 --> 02:41.960\n<v Speaker>I can't keep my grip, palms slipping away from me.\n02:41.960 --> 02:50.120\n<v Speaker>Oh God, everything is so false, but I can't feel the feet.\n```\n## Key Frames\n- 02:39.400 ![](keyFrame.159400.jpg)\n- 02:40.280 ![](keyFrame.160280.jpg)\n- 02:41.160 ![](keyFrame.161160.jpg)\n- 02:42.040 ![](keyFrame.162040.jpg)\n- 02:42.920 ![](keyFrame.162920.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 158520,
+                "endTimeMs": 163800,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:43.800 => 02:44.280\n## Transcript\n```\nWEBVTT\n\n02:41.960 --> 02:50.120\n<v Speaker>Oh God, everything is so false, but I can't feel the feet.\n```\n## Key Frames\n- 02:44.040 ![](keyFrame.164040.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 163800,
+                "endTimeMs": 164280,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:44.280 => 02:46.880\n## Transcript\n```\nWEBVTT\n\n02:41.960 --> 02:50.120\n<v Speaker>Oh God, everything is so false, but I can't feel the feet.\n```\n## Key Frames\n- 02:44.920 ![](keyFrame.164920.jpg)\n- 02:45.560 ![](keyFrame.165560.jpg)\n- 02:46.200 ![](keyFrame.166200.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 164280,
+                "endTimeMs": 166880,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:46.880 => 02:47.600\n## Transcript\n```\nWEBVTT\n\n02:41.960 --> 02:50.120\n<v Speaker>Oh God, everything is so false, but I can't feel the feet.\n```\n## Key Frames\n- 02:47.240 ![](keyFrame.167240.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 166880,
+                "endTimeMs": 167600,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:47.600 => 02:48.680\n## Transcript\n```\nWEBVTT\n\n02:41.960 --> 02:50.120\n<v Speaker>Oh God, everything is so false, but I can't feel the feet.\n```\n## Key Frames\n- 02:48.160 ![](keyFrame.168160.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 167600,
+                "endTimeMs": 168680,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:48.680 => 02:51.160\n## Transcript\n```\nWEBVTT\n\n02:41.960 --> 02:50.120\n<v Speaker>Oh God, everything is so false, but I can't feel the feet.\n02:50.120 --> 02:54.240\n<v Speaker>The emptiness is heavier than you think.\n```\n## Key Frames\n- 02:49.520 ![](keyFrame.169520.jpg)\n- 02:50.360 ![](keyFrame.170360.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 168680,
+                "endTimeMs": 171160,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:51.160 => 02:59.520\n## Transcript\n```\nWEBVTT\n\n02:50.120 --> 02:54.240\n<v Speaker>The emptiness is heavier than you think.\n02:59.280 --> 03:15.640\n<v Speaker>stops I can't keep my grip From slipping away from me Oh God, everything is so far But I can't feel the things The emptiness is heavier than you\n```\n## Key Frames\n- 02:52.080 ![](keyFrame.172080.jpg)\n- 02:53.000 ![](keyFrame.173000.jpg)\n- 02:53.920 ![](keyFrame.173920.jpg)\n- 02:54.840 ![](keyFrame.174840.jpg)\n- 02:55.760 ![](keyFrame.175760.jpg)\n- 02:56.680 ![](keyFrame.176680.jpg)\n- 02:57.600 ![](keyFrame.177600.jpg)\n- 02:58.520 ![](keyFrame.178520.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 171160,
+                "endTimeMs": 179520,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:59.520 => 03:00.919\n## Transcript\n```\nWEBVTT\n\n02:59.280 --> 03:15.640\n<v Speaker>stops I can't keep my grip From slipping away from me Oh God, everything is so far But I can't feel the things The emptiness is heavier than you\n```\n## Key Frames\n- 03:00.240 ![](keyFrame.180240.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 179520,
+                "endTimeMs": 180920,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:00.919 => 03:07.080\n## Transcript\n```\nWEBVTT\n\n02:59.280 --> 03:15.640\n<v Speaker>stops I can't keep my grip From slipping away from me Oh God, everything is so far But I can't feel the things The emptiness is heavier than you\n```\n## Key Frames\n- 03:01.800 ![](keyFrame.181800.jpg)\n- 03:02.680 ![](keyFrame.182680.jpg)\n- 03:03.560 ![](keyFrame.183560.jpg)\n- 03:04.440 ![](keyFrame.184440.jpg)\n- 03:05.320 ![](keyFrame.185320.jpg)\n- 03:06.200 ![](keyFrame.186200.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 180920,
+                "endTimeMs": 187080,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:07.080 => 03:11.880\n## Transcript\n```\nWEBVTT\n\n02:59.280 --> 03:15.640\n<v Speaker>stops I can't keep my grip From slipping away from me Oh God, everything is so far But I can't feel the things The emptiness is heavier than you\n```\n## Key Frames\n- 03:07.880 ![](keyFrame.187880.jpg)\n- 03:08.680 ![](keyFrame.188680.jpg)\n- 03:09.480 ![](keyFrame.189480.jpg)\n- 03:10.280 ![](keyFrame.190280.jpg)\n- 03:11.080 ![](keyFrame.191080.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 187080,
+                "endTimeMs": 191880,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:11.880 => 03:13.720\n## Transcript\n```\nWEBVTT\n\n02:59.280 --> 03:15.640\n<v Speaker>stops I can't keep my grip From slipping away from me Oh God, everything is so far But I can't feel the things The emptiness is heavier than you\n```\n## Key Frames\n- 03:12.480 ![](keyFrame.192480.jpg)\n- 03:13.080 ![](keyFrame.193080.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 191880,
+                "endTimeMs": 193720,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:13.720 => 03:14.880\n## Transcript\n```\nWEBVTT\n\n02:59.280 --> 03:15.640\n<v Speaker>stops I can't keep my grip From slipping away from me Oh God, everything is so far But I can't feel the things The emptiness is heavier than you\n```\n## Key Frames\n- 03:14.320 ![](keyFrame.194320.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 193720,
+                "endTimeMs": 194880,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:14.880 => 03:16.040\n## Transcript\n```\nWEBVTT\n\n02:59.280 --> 03:15.640\n<v Speaker>stops I can't keep my grip From slipping away from me Oh God, everything is so far But I can't feel the things The emptiness is heavier than you\n```\n## Key Frames\n- 03:15.480 ![](keyFrame.195480.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 194880,
+                "endTimeMs": 196040,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:16.040 => 03:17.040\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:16.560 ![](keyFrame.196560.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 196040,
+                "endTimeMs": 197040,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:17.040 => 03:18.200\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:17.640 ![](keyFrame.197640.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 197040,
+                "endTimeMs": 198200,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:18.200 => 03:22.240\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:19.000 ![](keyFrame.199000.jpg)\n- 03:19.800 ![](keyFrame.199800.jpg)\n- 03:20.600 ![](keyFrame.200600.jpg)\n- 03:21.400 ![](keyFrame.201400.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 198200,
+                "endTimeMs": 202240,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:22.240 => 03:23.280\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:22.760 ![](keyFrame.202760.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 202240,
+                "endTimeMs": 203280,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:23.280 => 03:28.840\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:24.080 ![](keyFrame.204080.jpg)\n- 03:24.880 ![](keyFrame.204880.jpg)\n- 03:25.680 ![](keyFrame.205680.jpg)\n- 03:26.480 ![](keyFrame.206480.jpg)\n- 03:27.280 ![](keyFrame.207280.jpg)\n- 03:28.080 ![](keyFrame.208080.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 203280,
+                "endTimeMs": 208840,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:28.840 => 03:31.360\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:29.480 ![](keyFrame.209480.jpg)\n- 03:30.120 ![](keyFrame.210120.jpg)\n- 03:30.760 ![](keyFrame.210760.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 208840,
+                "endTimeMs": 211360,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:31.360 => 03:31.800\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:31.600 ![](keyFrame.211600.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 211360,
+                "endTimeMs": 211800,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:31.800 => 03:32.760\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:32.280 ![](keyFrame.212280.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 211800,
+                "endTimeMs": 212760,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:32.760 => 03:33.240\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:33.000 ![](keyFrame.213000.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 212760,
+                "endTimeMs": 213240,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:33.240 => 03:33.639\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:33.440 ![](keyFrame.213440.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 213240,
+                "endTimeMs": 213640,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:33.639 => 03:34.600\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:34.120 ![](keyFrame.214120.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"drowning\": [\"00:03:34.120\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 213640,
+                "endTimeMs": 214600,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:34.600 => 03:35.040\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:34.840 ![](keyFrame.214840.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 214600,
+                "endTimeMs": 215040,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:35.040 => 03:35.520\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:35.280 ![](keyFrame.215280.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 215040,
+                "endTimeMs": 215520,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:35.520 => 03:36.440\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:36.000 ![](keyFrame.216000.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 215520,
+                "endTimeMs": 216440,
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:36.440 => 03:37.200\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:36.840 ![](keyFrame.216840.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 216440,
+                "endTimeMs": 217200,
+                "width": 1080,
+                "height": 720
+            }
+        ]
+    }
+}

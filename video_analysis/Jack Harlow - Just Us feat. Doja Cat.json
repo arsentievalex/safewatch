@@ -1,0 +1,2665 @@
+{
+    "id": "7cf714af-0043-4944-aac8-91914a990967",
+    "status": "Succeeded",
+    "result": {
+        "analyzerId": "triggers_analyzer",
+        "apiVersion": "2024-12-01-preview",
+        "createdAt": "2025-03-26T19:44:44Z",
+        "warnings": [
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[0]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[1]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[2]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[3]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[4]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[5]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[6]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[7]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[8]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[9]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[10]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[11]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[12]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[13]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[14]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[15]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[16]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[17]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[18]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[19]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[20]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[21]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[22]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[23]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[24]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[25]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[26]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[27]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[28]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[29]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[30]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[31]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[32]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[33]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[34]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[35]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[36]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[37]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[38]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[39]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[40]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[41]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[42]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[43]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[44]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[45]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[46]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[47]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[48]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[49]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[50]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[51]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[52]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[53]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[54]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'High'. Please use the field content with caution.",
+                "target": "Result.Contents[55]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[56]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[57]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[58]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[59]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[60]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[61]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[62]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[63]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[64]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[65]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[66]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[67]"
+            }
+        ],
+        "contents": [
+            {
+                "markdown": "# Shot 00:00.000 => 00:06.792\n## Transcript\n```\nWEBVTT\n\n00:03.360 --> 00:08.720\n<v Speaker>I wish it was just us and this ***** but they can't trust us and this ***** 'cause I'm trying to bust nuts in this hunt.\n```\n## Key Frames\n- 00:00.833 ![](keyFrame.833.jpg)\n- 00:01.667 ![](keyFrame.1667.jpg)\n- 00:02.500 ![](keyFrame.2500.jpg)\n- 00:03.333 ![](keyFrame.3333.jpg)\n- 00:04.167 ![](keyFrame.4167.jpg)\n- 00:05.000 ![](keyFrame.5000.jpg)\n- 00:05.833 ![](keyFrame.5833.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 0,
+                "endTimeMs": 6792,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:06.792 => 00:08.875\n## Transcript\n```\nWEBVTT\n\n00:03.360 --> 00:08.720\n<v Speaker>I wish it was just us and this ***** but they can't trust us and this ***** 'cause I'm trying to bust nuts in this hunt.\n```\n## Key Frames\n- 00:07.500 ![](keyFrame.7500.jpg)\n- 00:08.208 ![](keyFrame.8208.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 6792,
+                "endTimeMs": 8875,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:08.875 => 00:09.917\n## Transcript\n```\nWEBVTT\n\n00:09.520 --> 00:12.240\n<v Speaker>Let's keep it on a hush-hush in this *****.\n```\n## Key Frames\n- 00:09.417 ![](keyFrame.9417.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 8875,
+                "endTimeMs": 9917,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:09.917 => 00:11.583\n## Transcript\n```\nWEBVTT\n\n00:09.520 --> 00:12.240\n<v Speaker>Let's keep it on a hush-hush in this *****.\n```\n## Key Frames\n- 00:10.458 ![](keyFrame.10458.jpg)\n- 00:11.000 ![](keyFrame.11000.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 9917,
+                "endTimeMs": 11583,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:11.583 => 00:15.292\n## Transcript\n```\nWEBVTT\n\n00:09.520 --> 00:12.240\n<v Speaker>Let's keep it on a hush-hush in this *****.\n00:12.240 --> 00:15.720\n<v Speaker>I told her she's so pretty and she just bust in this *****.\n```\n## Key Frames\n- 00:12.333 ![](keyFrame.12333.jpg)\n- 00:13.083 ![](keyFrame.13083.jpg)\n- 00:13.833 ![](keyFrame.13833.jpg)\n- 00:14.583 ![](keyFrame.14583.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 11583,
+                "endTimeMs": 15292,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:15.292 => 00:16.792\n## Transcript\n```\nWEBVTT\n\n00:12.240 --> 00:15.720\n<v Speaker>I told her she's so pretty and she just bust in this *****.\n00:16.080 --> 00:17.400\n<v Speaker>She clutch-clutch in my hunt.\n```\n## Key Frames\n- 00:15.792 ![](keyFrame.15792.jpg)\n- 00:16.292 ![](keyFrame.16292.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 15292,
+                "endTimeMs": 16792,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:16.792 => 00:19.542\n## Transcript\n```\nWEBVTT\n\n00:16.080 --> 00:17.400\n<v Speaker>She clutch-clutch in my hunt.\n00:17.960 --> 00:19.160\n<v Speaker>I'm adjusting my hunt.\n```\n## Key Frames\n- 00:17.458 ![](keyFrame.17458.jpg)\n- 00:18.125 ![](keyFrame.18125.jpg)\n- 00:18.792 ![](keyFrame.18792.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 16792,
+                "endTimeMs": 19542,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:19.542 => 00:20.792\n## Transcript\n```\nWEBVTT\n\n00:19.600 --> 00:21.920\n<v Speaker>She husky like mush-mush in this *****.\n```\n## Key Frames\n- 00:20.167 ![](keyFrame.20167.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 19542,
+                "endTimeMs": 20792,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:20.792 => 00:22.584\n## Transcript\n```\nWEBVTT\n\n00:19.600 --> 00:21.920\n<v Speaker>She husky like mush-mush in this *****.\n00:21.920 --> 00:23.440\n<v Speaker>You must be nuts rushing this.\n```\n## Key Frames\n- 00:21.375 ![](keyFrame.21375.jpg)\n- 00:21.958 ![](keyFrame.21958.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 20792,
+                "endTimeMs": 22584,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:22.584 => 00:24.750\n## Transcript\n```\nWEBVTT\n\n00:21.920 --> 00:23.440\n<v Speaker>You must be nuts rushing this.\n00:24.240 --> 00:25.920\n<v Speaker>Slow it down like macaroni.\n```\n## Key Frames\n- 00:23.292 ![](keyFrame.23292.jpg)\n- 00:24.000 ![](keyFrame.24000.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 22584,
+                "endTimeMs": 24750,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:24.750 => 00:26.041\n## Transcript\n```\nWEBVTT\n\n00:24.240 --> 00:25.920\n<v Speaker>Slow it down like macaroni.\n00:25.920 --> 00:27.600\n<v Speaker>I know it sound like Zack and Cody.\n```\n## Key Frames\n- 00:25.417 ![](keyFrame.25417.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 24750,
+                "endTimeMs": 26041,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:26.041 => 00:27.833\n## Transcript\n```\nWEBVTT\n\n00:25.920 --> 00:27.600\n<v Speaker>I know it sound like Zack and Cody.\n00:27.600 --> 00:28.400\n<v Speaker>This life's sweet.\n```\n## Key Frames\n- 00:26.625 ![](keyFrame.26625.jpg)\n- 00:27.208 ![](keyFrame.27208.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 26041,
+                "endTimeMs": 27833,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:27.833 => 00:30.208\n## Transcript\n```\nWEBVTT\n\n00:27.600 --> 00:28.400\n<v Speaker>This life's sweet.\n00:28.440 --> 00:35.440\n<v Speaker>I mean high key and you might be something that isn't quite but slightly resembles wifey.\n```\n## Key Frames\n- 00:28.625 ![](keyFrame.28625.jpg)\n- 00:29.417 ![](keyFrame.29417.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 27833,
+                "endTimeMs": 30208,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:30.208 => 00:33.208\n## Transcript\n```\nWEBVTT\n\n00:28.440 --> 00:35.440\n<v Speaker>I mean high key and you might be something that isn't quite but slightly resembles wifey.\n```\n## Key Frames\n- 00:30.958 ![](keyFrame.30958.jpg)\n- 00:31.708 ![](keyFrame.31708.jpg)\n- 00:32.458 ![](keyFrame.32458.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 30208,
+                "endTimeMs": 33208,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:33.208 => 00:37.084\n## Transcript\n```\nWEBVTT\n\n00:28.440 --> 00:35.440\n<v Speaker>I mean high key and you might be something that isn't quite but slightly resembles wifey.\n00:36.000 --> 00:37.200\n<v Speaker>I'm gonna eat this nightly.\n```\n## Key Frames\n- 00:33.958 ![](keyFrame.33958.jpg)\n- 00:34.708 ![](keyFrame.34708.jpg)\n- 00:35.458 ![](keyFrame.35458.jpg)\n- 00:36.208 ![](keyFrame.36208.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 33208,
+                "endTimeMs": 37084,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:37.084 => 00:38.500\n## Transcript\n```\nWEBVTT\n\n00:36.000 --> 00:37.200\n<v Speaker>I'm gonna eat this nightly.\n00:38.400 --> 00:40.320\n<v Speaker>You say you know all about Pisces.\n```\n## Key Frames\n- 00:37.792 ![](keyFrame.37792.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 37084,
+                "endTimeMs": 38500,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:38.500 => 00:40.209\n## Transcript\n```\nWEBVTT\n\n00:38.400 --> 00:40.320\n<v Speaker>You say you know all about Pisces.\n```\n## Key Frames\n- 00:39.083 ![](keyFrame.39083.jpg)\n- 00:39.667 ![](keyFrame.39667.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 38500,
+                "endTimeMs": 40209,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:40.209 => 00:42.583\n## Transcript\n```\nWEBVTT\n\n00:38.400 --> 00:40.320\n<v Speaker>You say you know all about Pisces.\n00:40.320 --> 00:42.000\n<v Speaker>I disagree but call it out nicely.\n00:42.000 --> 00:43.760\n<v Speaker>I'm all on you falling out my seat.\n```\n## Key Frames\n- 00:41.000 ![](keyFrame.41000.jpg)\n- 00:41.792 ![](keyFrame.41792.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 40209,
+                "endTimeMs": 42583,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:42.583 => 00:43.750\n## Transcript\n```\nWEBVTT\n\n00:42.000 --> 00:43.760\n<v Speaker>I'm all on you falling out my seat.\n```\n## Key Frames\n- 00:43.167 ![](keyFrame.43167.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 42583,
+                "endTimeMs": 43750,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:43.750 => 00:48.333\n## Transcript\n```\nWEBVTT\n\n00:42.000 --> 00:43.760\n<v Speaker>I'm all on you falling out my seat.\n00:45.680 --> 01:11.680\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On a hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this Slow it down like macaroni I know it sound like Zack and Cody This life's sweet, I mean hot key\n```\n## Key Frames\n- 00:44.500 ![](keyFrame.44500.jpg)\n- 00:45.250 ![](keyFrame.45250.jpg)\n- 00:46.000 ![](keyFrame.46000.jpg)\n- 00:46.750 ![](keyFrame.46750.jpg)\n- 00:47.500 ![](keyFrame.47500.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 43750,
+                "endTimeMs": 48333,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:48.333 => 00:50.500\n## Transcript\n```\nWEBVTT\n\n00:45.680 --> 01:11.680\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On a hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this Slow it down like macaroni I know it sound like Zack and Cody This life's sweet, I mean hot key\n```\n## Key Frames\n- 00:49.042 ![](keyFrame.49042.jpg)\n- 00:49.750 ![](keyFrame.49750.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 48333,
+                "endTimeMs": 50500,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:50.500 => 00:54.709\n## Transcript\n```\nWEBVTT\n\n00:45.680 --> 01:11.680\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On a hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this Slow it down like macaroni I know it sound like Zack and Cody This life's sweet, I mean hot key\n```\n## Key Frames\n- 00:51.333 ![](keyFrame.51333.jpg)\n- 00:52.167 ![](keyFrame.52167.jpg)\n- 00:53.000 ![](keyFrame.53000.jpg)\n- 00:53.833 ![](keyFrame.53833.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 50500,
+                "endTimeMs": 54709,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:54.709 => 00:57.916\n## Transcript\n```\nWEBVTT\n\n00:45.680 --> 01:11.680\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On a hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this Slow it down like macaroni I know it sound like Zack and Cody This life's sweet, I mean hot key\n```\n## Key Frames\n- 00:55.500 ![](keyFrame.55500.jpg)\n- 00:56.292 ![](keyFrame.56292.jpg)\n- 00:57.083 ![](keyFrame.57083.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 54709,
+                "endTimeMs": 57916,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:57.916 => 01:00.000\n## Transcript\n```\nWEBVTT\n\n00:45.680 --> 01:11.680\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On a hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this Slow it down like macaroni I know it sound like Zack and Cody This life's sweet, I mean hot key\n```\n## Key Frames\n- 00:58.625 ![](keyFrame.58625.jpg)\n- 00:59.333 ![](keyFrame.59333.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 57916,
+                "endTimeMs": 60000,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:00.000 => 01:03.125\n## Transcript\n```\nWEBVTT\n\n00:45.680 --> 01:11.680\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On a hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this Slow it down like macaroni I know it sound like Zack and Cody This life's sweet, I mean hot key\n```\n## Key Frames\n- 01:00.792 ![](keyFrame.60792.jpg)\n- 01:01.583 ![](keyFrame.61583.jpg)\n- 01:02.375 ![](keyFrame.62375.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 60000,
+                "endTimeMs": 63125,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:03.125 => 01:06.084\n## Transcript\n```\nWEBVTT\n\n00:45.680 --> 01:11.680\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On a hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this Slow it down like macaroni I know it sound like Zack and Cody This life's sweet, I mean hot key\n```\n## Key Frames\n- 01:03.875 ![](keyFrame.63875.jpg)\n- 01:04.625 ![](keyFrame.64625.jpg)\n- 01:05.375 ![](keyFrame.65375.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 63125,
+                "endTimeMs": 66084,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:06.084 => 01:09.792\n## Transcript\n```\nWEBVTT\n\n00:45.680 --> 01:11.680\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On a hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this Slow it down like macaroni I know it sound like Zack and Cody This life's sweet, I mean hot key\n```\n## Key Frames\n- 01:06.833 ![](keyFrame.66833.jpg)\n- 01:07.583 ![](keyFrame.67583.jpg)\n- 01:08.333 ![](keyFrame.68333.jpg)\n- 01:09.083 ![](keyFrame.69083.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 66084,
+                "endTimeMs": 69792,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:09.792 => 01:14.250\n## Transcript\n```\nWEBVTT\n\n00:45.680 --> 01:11.680\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On a hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this Slow it down like macaroni I know it sound like Zack and Cody This life's sweet, I mean hot key\n01:12.720 --> 01:15.600\n<v Speaker>Two hands on my throat, staring into my soul.\n```\n## Key Frames\n- 01:10.667 ![](keyFrame.70667.jpg)\n- 01:11.542 ![](keyFrame.71542.jpg)\n- 01:12.417 ![](keyFrame.72417.jpg)\n- 01:13.292 ![](keyFrame.73292.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 69792,
+                "endTimeMs": 74250,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:14.250 => 01:18.333\n## Transcript\n```\nWEBVTT\n\n01:12.720 --> 01:15.600\n<v Speaker>Two hands on my throat, staring into my soul.\n01:16.240 --> 01:19.360\n<v Speaker>Leg up on that chair, hand on that arm, tongue in that throat.\n```\n## Key Frames\n- 01:15.042 ![](keyFrame.75042.jpg)\n- 01:15.833 ![](keyFrame.75833.jpg)\n- 01:16.625 ![](keyFrame.76625.jpg)\n- 01:17.417 ![](keyFrame.77417.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 74250,
+                "endTimeMs": 78333,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:18.333 => 01:21.250\n## Transcript\n```\nWEBVTT\n\n01:16.240 --> 01:19.360\n<v Speaker>Leg up on that chair, hand on that arm, tongue in that throat.\n01:19.840 --> 01:22.720\n<v Speaker>I don't play with my pen, leave it on a good note.\n```\n## Key Frames\n- 01:19.042 ![](keyFrame.79042.jpg)\n- 01:19.750 ![](keyFrame.79750.jpg)\n- 01:20.458 ![](keyFrame.80458.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 78333,
+                "endTimeMs": 81250,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:21.250 => 01:22.959\n## Transcript\n```\nWEBVTT\n\n01:19.840 --> 01:22.720\n<v Speaker>I don't play with my pen, leave it on a good note.\n```\n## Key Frames\n- 01:21.833 ![](keyFrame.81833.jpg)\n- 01:22.417 ![](keyFrame.82417.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 81250,
+                "endTimeMs": 82959,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:22.959 => 01:24.417\n## Transcript\n```\nWEBVTT\n\n01:23.360 --> 01:26.120\n<v Speaker>Keep you on to your toes, leave the TV off of this show.\n```\n## Key Frames\n- 01:23.708 ![](keyFrame.83708.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 82959,
+                "endTimeMs": 84417,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:24.417 => 01:26.583\n## Transcript\n```\nWEBVTT\n\n01:23.360 --> 01:26.120\n<v Speaker>Keep you on to your toes, leave the TV off of this show.\n```\n## Key Frames\n- 01:25.125 ![](keyFrame.85125.jpg)\n- 01:25.833 ![](keyFrame.85833.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 84417,
+                "endTimeMs": 86583,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:26.583 => 01:28.583\n## Transcript\n```\nWEBVTT\n\n01:26.880 --> 01:35.040\n<v Speaker>You a salty, marshmallows and black coffee, my mouth cold from this blue frosty, my back blown 'cause you blew it off me, like you want me or what?\n```\n## Key Frames\n- 01:27.250 ![](keyFrame.87250.jpg)\n- 01:27.917 ![](keyFrame.87917.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 86583,
+                "endTimeMs": 88583,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:28.583 => 01:29.625\n## Transcript\n```\nWEBVTT\n\n01:26.880 --> 01:35.040\n<v Speaker>You a salty, marshmallows and black coffee, my mouth cold from this blue frosty, my back blown 'cause you blew it off me, like you want me or what?\n```\n## Key Frames\n- 01:29.125 ![](keyFrame.89125.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 88583,
+                "endTimeMs": 89625,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:29.625 => 01:33.417\n## Transcript\n```\nWEBVTT\n\n01:26.880 --> 01:35.040\n<v Speaker>You a salty, marshmallows and black coffee, my mouth cold from this blue frosty, my back blown 'cause you blew it off me, like you want me or what?\n```\n## Key Frames\n- 01:30.375 ![](keyFrame.90375.jpg)\n- 01:31.125 ![](keyFrame.91125.jpg)\n- 01:31.875 ![](keyFrame.91875.jpg)\n- 01:32.625 ![](keyFrame.92625.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 89625,
+                "endTimeMs": 93417,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:33.417 => 01:35.083\n## Transcript\n```\nWEBVTT\n\n01:26.880 --> 01:35.040\n<v Speaker>You a salty, marshmallows and black coffee, my mouth cold from this blue frosty, my back blown 'cause you blew it off me, like you want me or what?\n```\n## Key Frames\n- 01:33.958 ![](keyFrame.93958.jpg)\n- 01:34.500 ![](keyFrame.94500.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 93417,
+                "endTimeMs": 95083,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:35.083 => 01:36.167\n## Transcript\n```\nWEBVTT\n\n01:35.680 --> 01:40.320\n<v Speaker>Prove that with your huh, spend some for this huh, who said that ain't love?\n```\n## Key Frames\n- 01:35.625 ![](keyFrame.95625.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 95083,
+                "endTimeMs": 96167,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:36.167 => 01:37.292\n## Transcript\n```\nWEBVTT\n\n01:35.680 --> 01:40.320\n<v Speaker>Prove that with your huh, spend some for this huh, who said that ain't love?\n```\n## Key Frames\n- 01:36.750 ![](keyFrame.96750.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 96167,
+                "endTimeMs": 97292,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:37.292 => 01:38.750\n## Transcript\n```\nWEBVTT\n\n01:35.680 --> 01:40.320\n<v Speaker>Prove that with your huh, spend some for this huh, who said that ain't love?\n```\n## Key Frames\n- 01:38.042 ![](keyFrame.98042.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 97292,
+                "endTimeMs": 98750,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:38.750 => 01:41.458\n## Transcript\n```\nWEBVTT\n\n01:35.680 --> 01:40.320\n<v Speaker>Prove that with your huh, spend some for this huh, who said that ain't love?\n```\n## Key Frames\n- 01:39.417 ![](keyFrame.99417.jpg)\n- 01:40.083 ![](keyFrame.100083.jpg)\n- 01:40.750 ![](keyFrame.100750.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 98750,
+                "endTimeMs": 101458,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:41.458 => 01:43.291\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 01:47.040\n<v Speaker>In this bass, hitting rope backhanded, insatiable, I'm like Pacman, we go back further than backgammon.\n```\n## Key Frames\n- 01:42.083 ![](keyFrame.102083.jpg)\n- 01:42.708 ![](keyFrame.102708.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 101458,
+                "endTimeMs": 103291,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:43.291 => 01:44.000\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 01:47.040\n<v Speaker>In this bass, hitting rope backhanded, insatiable, I'm like Pacman, we go back further than backgammon.\n```\n## Key Frames\n- 01:43.667 ![](keyFrame.103667.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 103291,
+                "endTimeMs": 104000,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:44.000 => 01:44.791\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 01:47.040\n<v Speaker>In this bass, hitting rope backhanded, insatiable, I'm like Pacman, we go back further than backgammon.\n```\n## Key Frames\n- 01:44.417 ![](keyFrame.104417.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 104000,
+                "endTimeMs": 104791,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:44.791 => 01:45.541\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 01:47.040\n<v Speaker>In this bass, hitting rope backhanded, insatiable, I'm like Pacman, we go back further than backgammon.\n```\n## Key Frames\n- 01:45.167 ![](keyFrame.105167.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 104791,
+                "endTimeMs": 105541,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:45.541 => 01:47.792\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 01:47.040\n<v Speaker>In this bass, hitting rope backhanded, insatiable, I'm like Pacman, we go back further than backgammon.\n01:47.040 --> 01:50.600\n<v Speaker>Hey Jackman, I meet Jack Rabbit, I'm running wild, I love back addict.\n```\n## Key Frames\n- 01:46.292 ![](keyFrame.106292.jpg)\n- 01:47.042 ![](keyFrame.107042.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 105541,
+                "endTimeMs": 107792,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:47.792 => 01:49.708\n## Transcript\n```\nWEBVTT\n\n01:47.040 --> 01:50.600\n<v Speaker>Hey Jackman, I meet Jack Rabbit, I'm running wild, I love back addict.\n```\n## Key Frames\n- 01:48.417 ![](keyFrame.108417.jpg)\n- 01:49.042 ![](keyFrame.109042.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 107792,
+                "endTimeMs": 109708,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:49.708 => 01:50.667\n## Transcript\n```\nWEBVTT\n\n01:47.040 --> 01:50.600\n<v Speaker>Hey Jackman, I meet Jack Rabbit, I'm running wild, I love back addict.\n```\n## Key Frames\n- 01:50.208 ![](keyFrame.110208.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 109708,
+                "endTimeMs": 110667,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:50.667 => 01:52.167\n## Transcript\n```\nWEBVTT\n\n01:50.840 --> 01:54.160\n<v Speaker>Fans will be some fan addicts, they cook kind of like crack addicts.\n```\n## Key Frames\n- 01:51.167 ![](keyFrame.111167.jpg)\n- 01:51.667 ![](keyFrame.111667.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 110667,
+                "endTimeMs": 112167,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:52.167 => 01:53.334\n## Transcript\n```\nWEBVTT\n\n01:50.840 --> 01:54.160\n<v Speaker>Fans will be some fan addicts, they cook kind of like crack addicts.\n```\n## Key Frames\n- 01:52.750 ![](keyFrame.112750.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 112167,
+                "endTimeMs": 113334,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:53.334 => 01:54.209\n## Transcript\n```\nWEBVTT\n\n01:50.840 --> 01:54.160\n<v Speaker>Fans will be some fan addicts, they cook kind of like crack addicts.\n01:54.160 --> 01:55.920\n<v Speaker>We cooking **** up like black magic.\n```\n## Key Frames\n- 01:53.792 ![](keyFrame.113792.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 113334,
+                "endTimeMs": 114209,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:54.209 => 01:57.000\n## Transcript\n```\nWEBVTT\n\n01:54.160 --> 01:55.920\n<v Speaker>We cooking **** up like black magic.\n01:56.000 --> 01:58.560\n<v Speaker>Backs to them, paper talks, folk facts to them.\n```\n## Key Frames\n- 01:54.917 ![](keyFrame.114917.jpg)\n- 01:55.625 ![](keyFrame.115625.jpg)\n- 01:56.333 ![](keyFrame.116333.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 114209,
+                "endTimeMs": 117000,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:57.000 => 01:58.166\n## Transcript\n```\nWEBVTT\n\n01:56.000 --> 01:58.560\n<v Speaker>Backs to them, paper talks, folk facts to them.\n```\n## Key Frames\n- 01:57.583 ![](keyFrame.117583.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 117000,
+                "endTimeMs": 118166,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:58.166 => 02:00.166\n## Transcript\n```\nWEBVTT\n\n01:56.000 --> 01:58.560\n<v Speaker>Backs to them, paper talks, folk facts to them.\n01:58.640 --> 02:02.000\n<v Speaker>Makeup on for these pop features, I'm throwing *** to some bad music.\n```\n## Key Frames\n- 01:58.833 ![](keyFrame.118833.jpg)\n- 01:59.500 ![](keyFrame.119500.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 118166,
+                "endTimeMs": 120166,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:00.166 => 02:02.167\n## Transcript\n```\nWEBVTT\n\n01:58.640 --> 02:02.000\n<v Speaker>Makeup on for these pop features, I'm throwing *** to some bad music.\n```\n## Key Frames\n- 02:00.833 ![](keyFrame.120833.jpg)\n- 02:01.500 ![](keyFrame.121500.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 120166,
+                "endTimeMs": 122167,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:02.167 => 02:06.084\n## Transcript\n```\nWEBVTT\n\n02:02.720 --> 02:05.960\n<v Speaker>Yeah, I'm that stupid like duh, you mad cute, I want ****.\n```\n## Key Frames\n- 02:02.958 ![](keyFrame.122958.jpg)\n- 02:03.750 ![](keyFrame.123750.jpg)\n- 02:04.542 ![](keyFrame.124542.jpg)\n- 02:05.333 ![](keyFrame.125333.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 122167,
+                "endTimeMs": 126084,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:06.084 => 02:09.084\n## Transcript\n```\nWEBVTT\n\n02:06.400 --> 02:07.840\n<v Speaker>Don't ice box me, let's touch it.\n```\n## Key Frames\n- 02:06.833 ![](keyFrame.126833.jpg)\n- 02:07.583 ![](keyFrame.127583.jpg)\n- 02:08.333 ![](keyFrame.128333.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 126084,
+                "endTimeMs": 129084,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:09.084 => 02:15.875\n## Transcript\n```\nWEBVTT\n\n02:10.480 --> 02:30.640\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On her hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this\n```\n## Key Frames\n- 02:09.917 ![](keyFrame.129917.jpg)\n- 02:10.750 ![](keyFrame.130750.jpg)\n- 02:11.583 ![](keyFrame.131583.jpg)\n- 02:12.417 ![](keyFrame.132417.jpg)\n- 02:13.250 ![](keyFrame.133250.jpg)\n- 02:14.083 ![](keyFrame.134083.jpg)\n- 02:14.917 ![](keyFrame.134917.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 129084,
+                "endTimeMs": 135875,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:15.875 => 02:19.292\n## Transcript\n```\nWEBVTT\n\n02:10.480 --> 02:30.640\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On her hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this\n```\n## Key Frames\n- 02:16.708 ![](keyFrame.136708.jpg)\n- 02:17.542 ![](keyFrame.137542.jpg)\n- 02:18.375 ![](keyFrame.138375.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 135875,
+                "endTimeMs": 139292,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:19.292 => 02:23.000\n## Transcript\n```\nWEBVTT\n\n02:10.480 --> 02:30.640\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On her hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this\n```\n## Key Frames\n- 02:20.042 ![](keyFrame.140042.jpg)\n- 02:20.792 ![](keyFrame.140792.jpg)\n- 02:21.542 ![](keyFrame.141542.jpg)\n- 02:22.292 ![](keyFrame.142292.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 139292,
+                "endTimeMs": 143000,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:23.000 => 02:27.166\n## Transcript\n```\nWEBVTT\n\n02:10.480 --> 02:30.640\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On her hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this\n```\n## Key Frames\n- 02:23.833 ![](keyFrame.143833.jpg)\n- 02:24.667 ![](keyFrame.144667.jpg)\n- 02:25.500 ![](keyFrame.145500.jpg)\n- 02:26.333 ![](keyFrame.146333.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 143000,
+                "endTimeMs": 147166,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:27.166 => 02:28.458\n## Transcript\n```\nWEBVTT\n\n02:10.480 --> 02:30.640\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On her hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this\n```\n## Key Frames\n- 02:27.833 ![](keyFrame.147833.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 147166,
+                "endTimeMs": 148458,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:28.458 => 02:29.708\n## Transcript\n```\nWEBVTT\n\n02:10.480 --> 02:30.640\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On her hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this\n```\n## Key Frames\n- 02:29.083 ![](keyFrame.149083.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 148458,
+                "endTimeMs": 149708,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:29.708 => 02:34.250\n## Transcript\n```\nWEBVTT\n\n02:10.480 --> 02:30.640\n<v Speaker>I wish it was just us in this ***** But they can't trust us in this ***** 'Cause I'm trying to bust nuts in this huh Let's keep it On her hush hush in this ***** I told her she's so pretty And she just blushed in this ***** She clutch clutch in my huh I'm adjusting my huh She husky like mush mush in this ***** You must be nuts rushing this\n```\n## Key Frames\n- 02:30.458 ![](keyFrame.150458.jpg)\n- 02:31.208 ![](keyFrame.151208.jpg)\n- 02:31.958 ![](keyFrame.151958.jpg)\n- 02:32.708 ![](keyFrame.152708.jpg)\n- 02:33.458 ![](keyFrame.153458.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 149708,
+                "endTimeMs": 154250,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:34.250 => 02:39.709\n## Transcript\n```\nWEBVTT\n\n02:36.640 --> 02:41.840\n<v Speaker>We could just be friends like Music Soul Child and Bobby Valentino.\n```\n## Key Frames\n- 02:35.167 ![](keyFrame.155167.jpg)\n- 02:36.083 ![](keyFrame.156083.jpg)\n- 02:37.000 ![](keyFrame.157000.jpg)\n- 02:37.917 ![](keyFrame.157917.jpg)\n- 02:38.833 ![](keyFrame.158833.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 154250,
+                "endTimeMs": 159709,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:39.709 => 02:43.750\n## Transcript\n```\nWEBVTT\n\n02:36.640 --> 02:41.840\n<v Speaker>We could just be friends like Music Soul Child and Bobby Valentino.\n02:42.000 --> 02:43.280\n<v Speaker>You could slow down.\n02:43.280 --> 02:50.400\n<v Speaker>We got all these temptations like the group from Motown and I'm playing like the crew that came up through my hometown.\n```\n## Key Frames\n- 02:40.500 ![](keyFrame.160500.jpg)\n- 02:41.292 ![](keyFrame.161292.jpg)\n- 02:42.083 ![](keyFrame.162083.jpg)\n- 02:42.875 ![](keyFrame.162875.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 159709,
+                "endTimeMs": 163750,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:43.750 => 02:50.500\n## Transcript\n```\nWEBVTT\n\n02:43.280 --> 02:50.400\n<v Speaker>We got all these temptations like the group from Motown and I'm playing like the crew that came up through my hometown.\n```\n## Key Frames\n- 02:44.583 ![](keyFrame.164583.jpg)\n- 02:45.417 ![](keyFrame.165417.jpg)\n- 02:46.250 ![](keyFrame.166250.jpg)\n- 02:47.083 ![](keyFrame.167083.jpg)\n- 02:47.917 ![](keyFrame.167917.jpg)\n- 02:48.750 ![](keyFrame.168750.jpg)\n- 02:49.583 ![](keyFrame.169583.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 163750,
+                "endTimeMs": 170500,
+                "width": 1262,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:50.500 => 02:55.751\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:51.375 ![](keyFrame.171375.jpg)\n- 02:52.250 ![](keyFrame.172250.jpg)\n- 02:53.125 ![](keyFrame.173125.jpg)\n- 02:54.000 ![](keyFrame.174000.jpg)\n- 02:54.875 ![](keyFrame.174875.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "carCrash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 170500,
+                "endTimeMs": 175751,
+                "width": 1262,
+                "height": 720
+            }
+        ]
+    }
+}

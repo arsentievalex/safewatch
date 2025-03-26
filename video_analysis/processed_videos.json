@@ -1,0 +1,32 @@
+[
+    {
+        "url": "https://www.youtube.com/watch?v=u9WgtlgGAgs",
+        "json_file": "The Cardigans - My Favourite Game.json",
+        "title": "The Cardigans - My Favourite Game"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=HUHC9tYz8ik",
+        "json_file": "Billie Eilish - bury a friend.json",
+        "title": "Billie Eilish - bury a friend"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=L5uV3gmOH9g",
+        "json_file": "Bring Me The Horizon - Teardrops.json",
+        "title": "Bring Me The Horizon - Teardrops"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=-KT-r2vHeMM",
+        "json_file": "Marcy Playground - Sex & Candy.json",
+        "title": "Marcy Playground - Sex & Candy"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=q3zqJs7JUCQ",
+        "json_file": "Taylor Swift - Fortnight (feat. Post Malone).json",
+        "title": "Taylor Swift - Fortnight (feat. Post Malone)"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=W3q8Od5qJio",
+        "json_file": "Rammstein - Du Hast.json",
+        "title": "Rammstein - Du Hast"
+    }
+]

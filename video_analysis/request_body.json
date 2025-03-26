@@ -1,0 +1,36 @@
+{
+  "description": "Trigger detection video analyzer",
+  "scenario": "videoShot",
+  "config": {
+    "returnDetails": false
+  },
+  "fieldSchema": {
+    "fields": {
+      "Needles": {
+        "type": "boolean",
+        "description": "Indicates if needles appear in the video."
+      },
+      "Explosions": {
+        "type": "boolean",
+        "description": "Indicates if explosions appear in the video."
+      },
+      "Drowning": {
+        "type": "boolean",
+        "description": "Indicates if drowning appears in the video."
+      },
+      "Car_Crash": {
+        "type": "boolean",
+        "description": "Indicates if a car crash appears in the video."
+      },
+      "Spiders": {
+        "type": "boolean",
+        "description": "Indicates if spiders appear in the video."
+      },
+      "Timestamps": {
+        "type": "string",
+        "description": "A JSON-like string representing timestamps for triggers, e.g., {\"Needles\": [\"00:01:23\", \"00:05:12\"], \"Explosions\": [\"00:02:45\"]}"
+      }
+    }
+  }
+}
+

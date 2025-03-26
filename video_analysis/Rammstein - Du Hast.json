@@ -1,0 +1,4195 @@
+{
+    "id": "9e10c5a5-943c-45e6-a1c9-bb2ec8c07f6e",
+    "status": "Succeeded",
+    "result": {
+        "analyzerId": "triggers_analyzer",
+        "apiVersion": "2024-12-01-preview",
+        "createdAt": "2025-03-23T19:50:15Z",
+        "warnings": [
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[0]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[1]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'High'. Please use the field content with caution.",
+                "target": "Result.Contents[2]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'SelfHarm' detected with severity 'High'. Please use the field content with caution.",
+                "target": "Result.Contents[2]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[3]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[4]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[5]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Sexual' detected with severity 'Medium'. Please use the field content with caution.",
+                "target": "Result.Contents[6]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[6]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[7]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[8]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[9]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[10]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[11]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[12]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[13]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[14]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[15]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[16]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[17]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[18]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[19]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[20]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[21]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[22]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[23]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[24]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[25]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[26]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[27]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[28]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[29]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[30]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[31]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[32]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[33]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[34]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[35]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[36]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[37]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Hate' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[38]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[38]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[39]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[40]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Hate' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[41]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[41]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[42]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[43]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[44]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[45]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[46]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[47]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[48]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[49]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[50]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[51]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[52]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[53]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[56]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[67]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[68]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[69]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[70]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[71]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[72]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[73]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[74]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[75]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[76]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[77]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[78]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[79]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[80]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[81]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[82]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[83]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[84]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[85]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[86]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[87]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[88]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Hate' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[89]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[89]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[90]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[91]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[92]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[93]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Hate' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[94]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[94]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[95]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[96]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[97]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[98]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[99]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[100]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[101]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[102]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[103]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[104]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[105]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[106]"
+            },
+            {
+                "code": "HarmfulContentDetected",
+                "message": "Content of category 'Violence' detected with severity 'Low'. Please use the field content with caution.",
+                "target": "Result.Contents[107]"
+            }
+        ],
+        "contents": [
+            {
+                "markdown": "# Shot 00:00.000 => 00:09.039\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:00.880 ![](keyFrame.880.jpg)\n- 00:01.760 ![](keyFrame.1760.jpg)\n- 00:02.640 ![](keyFrame.2640.jpg)\n- 00:03.520 ![](keyFrame.3520.jpg)\n- 00:04.400 ![](keyFrame.4400.jpg)\n- 00:05.280 ![](keyFrame.5280.jpg)\n- 00:06.160 ![](keyFrame.6160.jpg)\n- 00:07.040 ![](keyFrame.7040.jpg)\n- 00:07.920 ![](keyFrame.7920.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Car Appearance\": [\"00:00:00.880\", \"00:00:01.760\", \"00:00:02.640\", \"00:00:03.520\", \"00:00:04.400\", \"00:00:05.280\", \"00:00:06.160\", \"00:00:07.040\", \"00:00:07.920\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 0,
+                "endTimeMs": 9040,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:09.039 => 00:09.480\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:09.280 ![](keyFrame.9280.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Debris\": [\"00:00:09.280\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 9040,
+                "endTimeMs": 9480,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:09.480 => 00:14.920\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:10.360 ![](keyFrame.10360.jpg)\n- 00:11.240 ![](keyFrame.11240.jpg)\n- 00:12.120 ![](keyFrame.12120.jpg)\n- 00:13.000 ![](keyFrame.13000.jpg)\n- 00:13.880 ![](keyFrame.13880.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Debris\": [\"00:00:10.360\", \"00:00:11.240\", \"00:00:12.120\", \"00:00:13.000\", \"00:00:13.880\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 9480,
+                "endTimeMs": 14920,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:14.920 => 00:15.760\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:15.360 ![](keyFrame.15360.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Burnt Car\": [\"00:00:15.360\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 14920,
+                "endTimeMs": 15760,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:15.760 => 00:20.000\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:16.600 ![](keyFrame.16600.jpg)\n- 00:17.440 ![](keyFrame.17440.jpg)\n- 00:18.280 ![](keyFrame.18280.jpg)\n- 00:19.120 ![](keyFrame.19120.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Car on Road\": [\"00:00:16.600\", \"00:00:17.440\", \"00:00:18.280\", \"00:00:19.120\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 15760,
+                "endTimeMs": 20000,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:20.000 => 00:23.200\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:20.800 ![](keyFrame.20800.jpg)\n- 00:21.600 ![](keyFrame.21600.jpg)\n- 00:22.400 ![](keyFrame.22400.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 20000,
+                "endTimeMs": 23200,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:23.200 => 00:26.600\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:24.040 ![](keyFrame.24040.jpg)\n- 00:24.880 ![](keyFrame.24880.jpg)\n- 00:25.720 ![](keyFrame.25720.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Interior of Car\": [\"00:00:24.040\", \"00:00:24.880\", \"00:00:25.720\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 23200,
+                "endTimeMs": 26600,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:26.600 => 00:27.440\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:27.040 ![](keyFrame.27040.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Hand Movement\": [\"00:00:27.040\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 26600,
+                "endTimeMs": 27440,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:27.440 => 00:28.440\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:27.960 ![](keyFrame.27960.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 27440,
+                "endTimeMs": 28440,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:28.440 => 00:28.960\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:28.720 ![](keyFrame.28720.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Hand on Shoulder\": [\"00:00:28.720\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 28440,
+                "endTimeMs": 28960,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:28.960 => 00:31.000\n## Transcript\n```\nWEBVTT\n\n00:30.720 --> 00:35.600\n<v Speaker>Du hast du hast mesh.\n```\n## Key Frames\n- 00:29.640 ![](keyFrame.29640.jpg)\n- 00:30.320 ![](keyFrame.30320.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 28960,
+                "endTimeMs": 31000,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:31.000 => 00:31.640\n## Transcript\n```\nWEBVTT\n\n00:30.720 --> 00:35.600\n<v Speaker>Du hast du hast mesh.\n```\n## Key Frames\n- 00:31.320 ![](keyFrame.31320.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 31000,
+                "endTimeMs": 31640,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:31.640 => 00:32.760\n## Transcript\n```\nWEBVTT\n\n00:30.720 --> 00:35.600\n<v Speaker>Du hast du hast mesh.\n```\n## Key Frames\n- 00:32.200 ![](keyFrame.32200.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 31640,
+                "endTimeMs": 32760,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:32.760 => 00:36.320\n## Transcript\n```\nWEBVTT\n\n00:30.720 --> 00:35.600\n<v Speaker>Du hast du hast mesh.\n```\n## Key Frames\n- 00:33.480 ![](keyFrame.33480.jpg)\n- 00:34.200 ![](keyFrame.34200.jpg)\n- 00:34.920 ![](keyFrame.34920.jpg)\n- 00:35.640 ![](keyFrame.35640.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 32760,
+                "endTimeMs": 36320,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:36.320 => 00:38.320\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:37.000 ![](keyFrame.37000.jpg)\n- 00:37.680 ![](keyFrame.37680.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 36320,
+                "endTimeMs": 38320,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:38.320 => 00:43.320\n## Transcript\n```\nWEBVTT\n\n00:38.360 --> 00:43.360\n<v Speaker>Du hast du hast mesh.\n```\n## Key Frames\n- 00:39.160 ![](keyFrame.39160.jpg)\n- 00:40.000 ![](keyFrame.40000.jpg)\n- 00:40.840 ![](keyFrame.40840.jpg)\n- 00:41.680 ![](keyFrame.41680.jpg)\n- 00:42.520 ![](keyFrame.42520.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 38320,
+                "endTimeMs": 43320,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:43.320 => 00:46.040\n## Transcript\n```\nWEBVTT\n\n00:38.360 --> 00:43.360\n<v Speaker>Du hast du hast mesh.\n```\n## Key Frames\n- 00:44.000 ![](keyFrame.44000.jpg)\n- 00:44.680 ![](keyFrame.44680.jpg)\n- 00:45.360 ![](keyFrame.45360.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 43320,
+                "endTimeMs": 46040,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:46.040 => 00:47.440\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:46.760 ![](keyFrame.46760.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 46040,
+                "endTimeMs": 47440,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:47.440 => 00:49.320\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:48.080 ![](keyFrame.48080.jpg)\n- 00:48.720 ![](keyFrame.48720.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 47440,
+                "endTimeMs": 49320,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:49.320 => 00:50.000\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:49.680 ![](keyFrame.49680.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 49320,
+                "endTimeMs": 50000,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:50.000 => 00:51.960\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:50.640 ![](keyFrame.50640.jpg)\n- 00:51.280 ![](keyFrame.51280.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 50000,
+                "endTimeMs": 51960,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:51.960 => 00:53.720\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:52.560 ![](keyFrame.52560.jpg)\n- 00:53.160 ![](keyFrame.53160.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 51960,
+                "endTimeMs": 53720,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:53.720 => 00:55.000\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:54.360 ![](keyFrame.54360.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 53720,
+                "endTimeMs": 55000,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:55.000 => 00:55.560\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:55.280 ![](keyFrame.55280.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 55000,
+                "endTimeMs": 55560,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:55.560 => 00:56.120\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:55.840 ![](keyFrame.55840.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 55560,
+                "endTimeMs": 56120,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:56.120 => 00:56.760\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:56.440 ![](keyFrame.56440.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 56120,
+                "endTimeMs": 56760,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:56.760 => 00:57.600\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:57.200 ![](keyFrame.57200.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 56760,
+                "endTimeMs": 57600,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:57.600 => 00:59.320\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:58.160 ![](keyFrame.58160.jpg)\n- 00:58.720 ![](keyFrame.58720.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 57600,
+                "endTimeMs": 59320,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 00:59.320 => 01:01.320\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:00.000 ![](keyFrame.60000.jpg)\n- 01:00.680 ![](keyFrame.60680.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 59320,
+                "endTimeMs": 61320,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:01.320 => 01:02.880\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:01.840 ![](keyFrame.61840.jpg)\n- 01:02.360 ![](keyFrame.62360.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Explosions\": [\"00:01:01.840\", \"00:01:02.360\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 61320,
+                "endTimeMs": 62880,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:02.880 => 01:03.840\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:03.360 ![](keyFrame.63360.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 62880,
+                "endTimeMs": 63840,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:03.840 => 01:05.360\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:04.360 ![](keyFrame.64360.jpg)\n- 01:04.880 ![](keyFrame.64880.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 63840,
+                "endTimeMs": 65360,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:05.360 => 01:06.280\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:05.840 ![](keyFrame.65840.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 65360,
+                "endTimeMs": 66280,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:06.280 => 01:10.000\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:07.000 ![](keyFrame.67000.jpg)\n- 01:07.720 ![](keyFrame.67720.jpg)\n- 01:08.440 ![](keyFrame.68440.jpg)\n- 01:09.160 ![](keyFrame.69160.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 66280,
+                "endTimeMs": 70000,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:10.000 => 01:16.440\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:10.920 ![](keyFrame.70920.jpg)\n- 01:11.840 ![](keyFrame.71840.jpg)\n- 01:12.760 ![](keyFrame.72760.jpg)\n- 01:13.680 ![](keyFrame.73680.jpg)\n- 01:14.600 ![](keyFrame.74600.jpg)\n- 01:15.520 ![](keyFrame.75520.jpg)\n- 01:16.440 ![](keyFrame.76440.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 70000,
+                "endTimeMs": 76440,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:16.440 => 01:24.000\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:17.360 ![](keyFrame.77360.jpg)\n- 01:18.280 ![](keyFrame.78280.jpg)\n- 01:19.200 ![](keyFrame.79200.jpg)\n- 01:20.120 ![](keyFrame.80120.jpg)\n- 01:21.040 ![](keyFrame.81040.jpg)\n- 01:21.960 ![](keyFrame.81960.jpg)\n- 01:22.880 ![](keyFrame.82880.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 76440,
+                "endTimeMs": 84000,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:24.000 => 01:27.600\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:24.720 ![](keyFrame.84720.jpg)\n- 01:25.440 ![](keyFrame.85440.jpg)\n- 01:26.160 ![](keyFrame.86160.jpg)\n- 01:26.880 ![](keyFrame.86880.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 84000,
+                "endTimeMs": 87600,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:27.600 => 01:29.959\n## Transcript\n```\nWEBVTT\n\n01:29.680 --> 01:29.760\n<v Speaker>The.\n```\n## Key Frames\n- 01:28.400 ![](keyFrame.88400.jpg)\n- 01:29.200 ![](keyFrame.89200.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 87600,
+                "endTimeMs": 89960,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:29.959 => 01:32.120\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:30.680 ![](keyFrame.90680.jpg)\n- 01:31.400 ![](keyFrame.91400.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 89960,
+                "endTimeMs": 92120,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:32.120 => 01:33.160\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:32.640 ![](keyFrame.92640.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 92120,
+                "endTimeMs": 93160,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:33.160 => 01:34.120\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:33.640 ![](keyFrame.93640.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 93160,
+                "endTimeMs": 94120,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:34.120 => 01:37.760\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:34.840 ![](keyFrame.94840.jpg)\n- 01:35.560 ![](keyFrame.95560.jpg)\n- 01:36.280 ![](keyFrame.96280.jpg)\n- 01:37.000 ![](keyFrame.97000.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 94120,
+                "endTimeMs": 97760,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:37.760 => 01:39.440\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:38.320 ![](keyFrame.98320.jpg)\n- 01:38.880 ![](keyFrame.98880.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 97760,
+                "endTimeMs": 99440,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:39.440 => 01:40.840\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 01:40.160 ![](keyFrame.100160.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 99440,
+                "endTimeMs": 100840,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:40.840 => 01:42.600\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:41.440 ![](keyFrame.101440.jpg)\n- 01:42.040 ![](keyFrame.102040.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 100840,
+                "endTimeMs": 102600,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:42.600 => 01:43.480\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:43.040 ![](keyFrame.103040.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 102600,
+                "endTimeMs": 103480,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:43.480 => 01:44.840\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:44.160 ![](keyFrame.104160.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 103480,
+                "endTimeMs": 104840,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:44.840 => 01:47.760\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:45.560 ![](keyFrame.105560.jpg)\n- 01:46.280 ![](keyFrame.106280.jpg)\n- 01:47.000 ![](keyFrame.107000.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 104840,
+                "endTimeMs": 107760,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:47.760 => 01:49.080\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:48.440 ![](keyFrame.108440.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 107760,
+                "endTimeMs": 109080,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:49.080 => 01:49.920\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:49.520 ![](keyFrame.109520.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 109080,
+                "endTimeMs": 109920,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:49.920 => 01:50.520\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:50.240 ![](keyFrame.110240.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 109920,
+                "endTimeMs": 110520,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:50.520 => 01:51.680\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:51.120 ![](keyFrame.111120.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 110520,
+                "endTimeMs": 111680,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:51.680 => 01:52.640\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:52.160 ![](keyFrame.112160.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 111680,
+                "endTimeMs": 112640,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:52.640 => 01:53.840\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:53.240 ![](keyFrame.113240.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 112640,
+                "endTimeMs": 113840,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:53.840 => 01:54.480\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:54.160 ![](keyFrame.114160.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Bottles\": [\"00:01:54.160\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 113840,
+                "endTimeMs": 114480,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:54.480 => 01:55.120\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:54.800 ![](keyFrame.114800.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Drinking\": [\"00:01:54.800\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 114480,
+                "endTimeMs": 115120,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:55.120 => 01:56.040\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:55.600 ![](keyFrame.115600.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Punching\": [\"00:01:55.600\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 115120,
+                "endTimeMs": 116040,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:56.040 => 01:56.840\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:56.440 ![](keyFrame.116440.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Conversation\": [\"00:01:56.440\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 116040,
+                "endTimeMs": 116840,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:56.840 => 01:59.440\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:57.480 ![](keyFrame.117480.jpg)\n- 01:58.120 ![](keyFrame.118120.jpg)\n- 01:58.760 ![](keyFrame.118760.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Movement\": [\"00:01:57.480\", \"00:01:58.120\", \"00:01:58.760\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 116840,
+                "endTimeMs": 119440,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:59.440 => 01:59.920\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 01:59.680 ![](keyFrame.119680.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Bottle\": [\"00:01:59.680\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 119440,
+                "endTimeMs": 119920,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 01:59.920 => 02:02.400\n## Transcript\n```\nWEBVTT\n\n01:41.600 --> 02:01.280\n<v Speaker>Night, night the pistol may stare towards I shine and try his eyes and I let's talk night.\n```\n## Key Frames\n- 02:00.760 ![](keyFrame.120760.jpg)\n- 02:01.600 ![](keyFrame.121600.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Drinking\": [\"00:02:00.760\", \"00:02:01.600\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 119920,
+                "endTimeMs": 122400,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:02.400 => 02:02.880\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:02.640 ![](keyFrame.122640.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Bright Light\": [\"00:02:02.640\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 122400,
+                "endTimeMs": 122880,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:02.880 => 02:04.320\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:03.600 ![](keyFrame.123600.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Driving\": [\"00:02:03.600\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 122880,
+                "endTimeMs": 124320,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:04.320 => 02:11.360\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:05.200 ![](keyFrame.125200.jpg)\n- 02:06.080 ![](keyFrame.126080.jpg)\n- 02:06.960 ![](keyFrame.126960.jpg)\n- 02:07.840 ![](keyFrame.127840.jpg)\n- 02:08.720 ![](keyFrame.128720.jpg)\n- 02:09.600 ![](keyFrame.129600.jpg)\n- 02:10.480 ![](keyFrame.130480.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Woman in Field\": [\"00:02:05.200\", \"00:02:06.080\", \"00:02:06.960\", \"00:02:07.840\", \"00:02:08.720\", \"00:02:09.600\", \"00:02:10.480\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 124320,
+                "endTimeMs": 131360,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:11.360 => 02:12.960\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:11.880 ![](keyFrame.131880.jpg)\n- 02:12.400 ![](keyFrame.132400.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Building\": [\"00:02:11.880\", \"00:02:12.400\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 131360,
+                "endTimeMs": 132960,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:12.960 => 02:16.600\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:13.680 ![](keyFrame.133680.jpg)\n- 02:14.400 ![](keyFrame.134400.jpg)\n- 02:15.120 ![](keyFrame.135120.jpg)\n- 02:15.840 ![](keyFrame.135840.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Woman with Needle\": [\"00:02:13.680\", \"00:02:14.400\", \"00:02:15.120\", \"00:02:15.840\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 132960,
+                "endTimeMs": 136600,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:16.600 => 02:20.120\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:17.280 ![](keyFrame.137280.jpg)\n- 02:17.960 ![](keyFrame.137960.jpg)\n- 02:18.640 ![](keyFrame.138640.jpg)\n- 02:19.320 ![](keyFrame.139320.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Dark Room\": [\"00:02:17.280\", \"00:02:17.960\", \"00:02:18.640\", \"00:02:19.320\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 136600,
+                "endTimeMs": 140120,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:20.120 => 02:24.600\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:21.000 ![](keyFrame.141000.jpg)\n- 02:21.880 ![](keyFrame.141880.jpg)\n- 02:22.760 ![](keyFrame.142760.jpg)\n- 02:23.640 ![](keyFrame.143640.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Spiders\": [], \"Car Crash\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 140120,
+                "endTimeMs": 144600,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:24.600 => 02:27.160\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:25.240 ![](keyFrame.145240.jpg)\n- 02:25.880 ![](keyFrame.145880.jpg)\n- 02:26.520 ![](keyFrame.146520.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Spiders\": [], \"Car Crash\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 144600,
+                "endTimeMs": 147160,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:27.160 => 02:28.480\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:27.840 ![](keyFrame.147840.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Spiders\": [], \"Car Crash\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 147160,
+                "endTimeMs": 148480,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:28.480 => 02:34.800\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:29.360 ![](keyFrame.149360.jpg)\n- 02:30.240 ![](keyFrame.150240.jpg)\n- 02:31.120 ![](keyFrame.151120.jpg)\n- 02:32.000 ![](keyFrame.152000.jpg)\n- 02:32.880 ![](keyFrame.152880.jpg)\n- 02:33.760 ![](keyFrame.153760.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Spiders\": [], \"Car Crash\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 148480,
+                "endTimeMs": 154800,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:34.800 => 02:36.200\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:35.520 ![](keyFrame.155520.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Explosions\": [], \"Spiders\": [], \"Car Crash\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 154800,
+                "endTimeMs": 156200,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:36.200 => 02:37.440\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:36.840 ![](keyFrame.156840.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Explosions\": [], \"Spiders\": [], \"Car Crash\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 156200,
+                "endTimeMs": 157440,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:37.440 => 02:38.400\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:37.920 ![](keyFrame.157920.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Explosions\": [], \"Spiders\": [], \"Car Crash\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 157440,
+                "endTimeMs": 158400,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:38.400 => 02:39.280\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:38.840 ![](keyFrame.158840.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Spiders\": [], \"Car Crash\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 158400,
+                "endTimeMs": 159280,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:39.280 => 02:40.240\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:39.760 ![](keyFrame.159760.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Spiders\": [], \"Car Crash\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 159280,
+                "endTimeMs": 160240,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:40.240 => 02:43.040\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:40.920 ![](keyFrame.160920.jpg)\n- 02:41.600 ![](keyFrame.161600.jpg)\n- 02:42.280 ![](keyFrame.162280.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Spiders\": [], \"Car Crash\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 160240,
+                "endTimeMs": 163040,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:43.040 => 02:48.400\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:43.920 ![](keyFrame.163920.jpg)\n- 02:44.800 ![](keyFrame.164800.jpg)\n- 02:45.680 ![](keyFrame.165680.jpg)\n- 02:46.560 ![](keyFrame.166560.jpg)\n- 02:47.440 ![](keyFrame.167440.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Spiders\": [], \"Car Crash\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 163040,
+                "endTimeMs": 168400,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:48.400 => 02:49.840\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:49.120 ![](keyFrame.169120.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [\"00:02:49.120\"], \"Explosions\": [], \"Spiders\": [], \"Car Crash\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 168400,
+                "endTimeMs": 169840,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:49.840 => 02:51.000\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:50.440 ![](keyFrame.170440.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Spiders\": [], \"Car Crash\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 169840,
+                "endTimeMs": 171000,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:51.000 => 02:51.919\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:51.480 ![](keyFrame.171480.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Spiders\": [], \"Car Crash\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 171000,
+                "endTimeMs": 171920,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:51.919 => 02:53.040\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:52.480 ![](keyFrame.172480.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 171920,
+                "endTimeMs": 173040,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:53.040 => 02:54.520\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:53.800 ![](keyFrame.173800.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 173040,
+                "endTimeMs": 174520,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:54.520 => 02:56.000\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:55.280 ![](keyFrame.175280.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 174520,
+                "endTimeMs": 176000,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:56.000 => 02:57.320\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:56.680 ![](keyFrame.176680.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 176000,
+                "endTimeMs": 177320,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:57.320 => 02:58.880\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:57.840 ![](keyFrame.177840.jpg)\n- 02:58.360 ![](keyFrame.178360.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 177320,
+                "endTimeMs": 178880,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 02:58.880 => 03:00.440\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 02:59.400 ![](keyFrame.179400.jpg)\n- 02:59.920 ![](keyFrame.179920.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 178880,
+                "endTimeMs": 180440,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:00.440 => 03:03.680\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:01.240 ![](keyFrame.181240.jpg)\n- 03:02.040 ![](keyFrame.182040.jpg)\n- 03:02.840 ![](keyFrame.182840.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [\"00:03:01.240\", \"00:03:02.040\", \"00:03:02.840\"], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 180440,
+                "endTimeMs": 183680,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:03.680 => 03:04.320\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:04.000 ![](keyFrame.184000.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 183680,
+                "endTimeMs": 184320,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:04.320 => 03:06.960\n## Transcript\n```\nWEBVTT\n\n03:06.560 --> 03:06.720\n<v Speaker>The.\n```\n## Key Frames\n- 03:04.960 ![](keyFrame.184960.jpg)\n- 03:05.600 ![](keyFrame.185600.jpg)\n- 03:06.240 ![](keyFrame.186240.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [\"00:03:04.960\", \"00:03:05.600\"], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 184320,
+                "endTimeMs": 186960,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:06.960 => 03:08.000\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:07.480 ![](keyFrame.187480.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [\"00:03:07.480\"], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 186960,
+                "endTimeMs": 188000,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:08.000 => 03:09.040\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:08.520 ![](keyFrame.188520.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [\"00:03:08.520\"], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 188000,
+                "endTimeMs": 189040,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:09.040 => 03:10.160\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:09.600 ![](keyFrame.189600.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 189040,
+                "endTimeMs": 190160,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:10.160 => 03:11.000\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:10.600 ![](keyFrame.190600.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [\"00:03:10.600\"], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 190160,
+                "endTimeMs": 191000,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:11.000 => 03:13.800\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:11.680 ![](keyFrame.191680.jpg)\n- 03:12.360 ![](keyFrame.192360.jpg)\n- 03:13.040 ![](keyFrame.193040.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [\"00:03:11.680\", \"00:03:12.360\"], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 191000,
+                "endTimeMs": 193800,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:13.800 => 03:15.080\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:14.440 ![](keyFrame.194440.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [\"00:03:14.440\"], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 193800,
+                "endTimeMs": 195080,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:15.080 => 03:16.960\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:15.720 ![](keyFrame.195720.jpg)\n- 03:16.360 ![](keyFrame.196360.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 195080,
+                "endTimeMs": 196960,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:16.960 => 03:18.040\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:17.520 ![](keyFrame.197520.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [\"00:03:17.520\"], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 196960,
+                "endTimeMs": 198040,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:18.040 => 03:20.639\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:18.680 ![](keyFrame.198680.jpg)\n- 03:19.320 ![](keyFrame.199320.jpg)\n- 03:19.960 ![](keyFrame.199960.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Needles\": [], \"Explosions\": [], \"Car Crash\": [], \"Spiders\": [], \"Drowning\": []}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 198040,
+                "endTimeMs": 200640,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:20.639 => 03:22.600\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:21.280 ![](keyFrame.201280.jpg)\n- 03:21.920 ![](keyFrame.201920.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 200640,
+                "endTimeMs": 202600,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:22.600 => 03:26.240\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:23.320 ![](keyFrame.203320.jpg)\n- 03:24.040 ![](keyFrame.204040.jpg)\n- 03:24.760 ![](keyFrame.204760.jpg)\n- 03:25.480 ![](keyFrame.205480.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 202600,
+                "endTimeMs": 206240,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:26.240 => 03:28.639\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:27.040 ![](keyFrame.207040.jpg)\n- 03:27.840 ![](keyFrame.207840.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 206240,
+                "endTimeMs": 208640,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:28.639 => 03:30.120\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:29.400 ![](keyFrame.209400.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 208640,
+                "endTimeMs": 210120,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:30.120 => 03:32.400\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 03:30.880 ![](keyFrame.210880.jpg)\n- 03:31.640 ![](keyFrame.211640.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 210120,
+                "endTimeMs": 212400,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:32.400 => 03:34.680\n## Transcript\n```\nWEBVTT\n\n03:32.960 --> 03:48.680\n<v Speaker>Night, night, night.\n```\n## Key Frames\n- 03:33.160 ![](keyFrame.213160.jpg)\n- 03:33.920 ![](keyFrame.213920.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 212400,
+                "endTimeMs": 214680,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:34.680 => 03:40.080\n## Transcript\n```\nWEBVTT\n\n03:32.960 --> 03:48.680\n<v Speaker>Night, night, night.\n```\n## Key Frames\n- 03:35.560 ![](keyFrame.215560.jpg)\n- 03:36.440 ![](keyFrame.216440.jpg)\n- 03:37.320 ![](keyFrame.217320.jpg)\n- 03:38.200 ![](keyFrame.218200.jpg)\n- 03:39.080 ![](keyFrame.219080.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 214680,
+                "endTimeMs": 220080,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:40.080 => 03:48.680\n## Transcript\n```\nWEBVTT\n\n03:32.960 --> 03:48.680\n<v Speaker>Night, night, night.\n```\n## Key Frames\n- 03:41.000 ![](keyFrame.221000.jpg)\n- 03:41.920 ![](keyFrame.221920.jpg)\n- 03:42.840 ![](keyFrame.222840.jpg)\n- 03:43.760 ![](keyFrame.223760.jpg)\n- 03:44.680 ![](keyFrame.224680.jpg)\n- 03:45.600 ![](keyFrame.225600.jpg)\n- 03:46.520 ![](keyFrame.226520.jpg)\n- 03:47.440 ![](keyFrame.227440.jpg)\n- 03:48.360 ![](keyFrame.228360.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Explosions\": [\"00:03:42.840\", \"00:03:43.760\", \"00:03:44.680\", \"00:03:45.600\", \"00:03:46.520\", \"00:03:47.440\", \"00:03:48.360\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 220080,
+                "endTimeMs": 228680,
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "markdown": "# Shot 03:48.680 => 03:55.000\n## Transcript\n```\nWEBVTT\n\n03:32.960 --> 03:48.680\n<v Speaker>Night, night, night.\n```\n## Key Frames\n- 03:49.280 ![](keyFrame.229280.jpg)\n- 03:50.200 ![](keyFrame.230200.jpg)\n- 03:51.120 ![](keyFrame.231120.jpg)\n- 03:52.040 ![](keyFrame.232040.jpg)\n- 03:52.960 ![](keyFrame.232960.jpg)\n- 03:53.880 ![](keyFrame.233880.jpg)",
+                "fields": {
+                    "needles": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "explosions": {
+                        "type": "boolean",
+                        "valueBoolean": true
+                    },
+                    "drowning": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "car_crash": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "spiders": {
+                        "type": "boolean",
+                        "valueBoolean": false
+                    },
+                    "timestamps": {
+                        "type": "string",
+                        "valueString": "{\"Explosions\": [\"00:03:49.280\", \"00:03:50.200\", \"00:03:51.120\", \"00:03:52.040\", \"00:03:52.960\", \"00:03:53.880\"]}"
+                    }
+                },
+                "kind": "audioVisual",
+                "startTimeMs": 228680,
+                "endTimeMs": 235000,
+                "width": 1280,
+                "height": 720
+            }
+        ]
+    }
+}
