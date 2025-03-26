@@ -31,4 +31,4 @@ jobs:
         uses: azure/webapps-deploy@v2
         with:
           app-name: 'safewatch'  # Match the app name in template.json
-          package: '.'  # Deploy the entire repository (assumes app.py is at root)
+          package: '.'  # Deploy the entire repository
