@@ -46,15 +46,6 @@
         },
         "linuxFxVersion": {
             "type": "string"
-        },
-        "repoUrl": {
-            "type": "string"
-        },
-        "branch": {
-            "type": "string"
-        },
-        "oidcUserIdentityName": {
-            "type": "string"
         }
     },
     "variables": {},
@@ -64,19 +55,14 @@
             "name": "[parameters('name')]",
             "type": "Microsoft.Web/sites",
             "location": "[parameters('location')]",
-            "tags": {},
+            "tags": null,
             "dependsOn": [
                 "[concat('Microsoft.Web/serverfarms/', parameters('hostingPlanName'))]"
             ],
             "properties": {
                 "name": "[parameters('name')]",
                 "siteConfig": {
-                    "appSettings": [
-                        {
-                            "name": "SCM_DO_BUILD_DURING_DEPLOYMENT",
-                            "value": "1"
-                        }
-                    ],
+                    "appSettings": [],
                     "linuxFxVersion": "[parameters('linuxFxVersion')]",
                     "alwaysOn": "[parameters('alwaysOn')]",
                     "ftpsState": "[parameters('ftpsState')]"
@@ -110,85 +96,8 @@
                     "dependsOn": [
                         "[resourceId('Microsoft.Web/Sites', parameters('name'))]"
                     ]
-                },
-                {
-                    "type": "sourcecontrols",
-                    "name": "web",
-                    "apiVersion": "2020-12-01",
-                    "properties": {
-                        "RepoUrl": "[parameters('repoUrl')]",
-                        "branch": "[parameters('branch')]",
-                        "IsManualIntegration": false,
-                        "deploymentRollbackEnabled": false,
-                        "isMercurial": false,
-                        "isGitHubAction": true,
-                        "gitHubActionConfiguration": {
-                            "generateWorkflowFile": true,
-                            "workflowSettings": {
-                                "appType": "webapp",
-                                "authType": "oidc",
-                                "publishType": "code",
-                                "os": "linux",
-                                "runtimeStack": "python",
-                                "workflowApiVersion": "2022-10-01",
-                                "slotName": "Production",
-                                "variables": {
-                                    "runtimeVersion": "3.9",
-                                    "resourceGroup": "rg-arsentiev9393-0970_ai",
-                                    "clientId": "[reference(resourceId('Microsoft.ManagedIdentity/userAssignedIdentities', parameters('oidcUserIdentityName')), '2018-11-30').clientId]",
-                                    "tenantId": "[reference(resourceId('Microsoft.ManagedIdentity/userAssignedIdentities', parameters('oidcUserIdentityName')), '2018-11-30').tenantId]"
-                                }
-                            }
-                        }
-                    },
-                    "dependsOn": [
-                        "[resourceId('Microsoft.Web/Sites', parameters('name'))]",
-                        "[resourceId('Microsoft.ManagedIdentity/userAssignedIdentities', parameters('oidcUserIdentityName'))]"
-                    ]
                 }
             ]
-        },
-        {
-            "apiVersion": "2018-11-30",
-            "name": "[parameters('oidcUserIdentityName')]",
-            "type": "Microsoft.ManagedIdentity/userAssignedIdentities",
-            "location": "[parameters('location')]",
-            "dependsOn": [
-                "[resourceId('Microsoft.Web/Sites', parameters('name'))]"
-            ],
-            "properties": {},
-            "resources": [
-                {
-                    "apiVersion": "2022-01-31-preview",
-                    "name": "[uniqueString(resourceGroup().id)]",
-                    "type": "federatedIdentityCredentials",
-                    "dependsOn": [
-                        "[resourceId('Microsoft.ManagedIdentity/userAssignedIdentities', parameters('oidcUserIdentityName'))]"
-                    ],
-                    "properties": {
-                        "audiences": [
-                            "api://AzureADTokenExchange"
-                        ],
-                        "issuer": "https://token.actions.githubusercontent.com",
-                        "subject": "repo:arsentievalex/safewatch:environment:Production"
-                    }
-                }
-            ]
-        },
-        {
-            "apiVersion": "2022-04-01",
-            "name": "[guid(resourceGroup().id, deployment().name)]",
-            "type": "Microsoft.Authorization/roleAssignments",
-            "dependsOn": [
-                "[resourceId('Microsoft.Web/Sites', parameters('name'))]",
-                "[resourceId('Microsoft.ManagedIdentity/userAssignedIdentities', parameters('oidcUserIdentityName'))]"
-            ],
-            "scope": "[concat('Microsoft.web/sites/', parameters('name'))]",
-            "properties": {
-                "roleDefinitionId": "[concat('/subscriptions/', subscription().subscriptionId, '/providers/Microsoft.Authorization/roleDefinitions/de139f84-1756-47ae-9be6-808fbbe84772')]",
-                "principalId": "[reference(resourceId('Microsoft.ManagedIdentity/userAssignedIdentities', parameters('oidcUserIdentityName')), '2018-11-30').principalId]",
-                "principalType": "ServicePrincipal"
-            }
         },
         {
             "apiVersion": "2018-11-01",
@@ -196,7 +105,7 @@
             "type": "Microsoft.Web/serverfarms",
             "location": "[parameters('location')]",
             "kind": "linux",
-            "tags": {},
+            "tags": null,
             "dependsOn": [],
             "properties": {
                 "name": "[parameters('hostingPlanName')]",
