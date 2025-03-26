@@ -26,6 +26,10 @@ jobs:
           template: 'infra/template.json'
           parameters: 'infra/parameters.json'
           deploymentMode: Incremental
+          # **Fix: Provide the missing parameters for GitHub OIDC**
+          branch: main  # Name of the branch where your ARM template is located
+          oidcUserIdentityName: ${{ github.actor }}  # OIDC identity based on the current GitHub Actions actor
+          repoUrl: ${{ github.repository }}  # GitHub repository URL (e.g., user/repo)
 
       - name: Deploy Streamlit App code to Azure App Service
         uses: azure/webapps-deploy@v2
