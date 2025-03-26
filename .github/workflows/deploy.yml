@@ -23,8 +23,8 @@ jobs:
         with:
           subscriptionId: '9b6b2d1a-dc93-4ec5-9e33-d2925a1c9f4c'
           resourceGroupName: 'rg-arsentiev9393-0970_ai'
-          template: './infra/template.json'
-          parameters: './infra/parameters.json'  
+          template: 'infra/template.json'
+          parameters: 'infra/parameters.json'
           deploymentMode: Incremental
 
       - name: Deploy Streamlit App code to Azure App Service
