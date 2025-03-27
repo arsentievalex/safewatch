@@ -25,6 +25,13 @@ jobs:
     - name: Create requirements.txt with exact versions
       run: pip freeze > requirements.txt
     
+    - name: Export secrets from APP_SECRETS
+      run: |
+        echo "$APP_SECRETS" > .env  # Write the multi-line APP_SECRETS to a .env file
+        cat .env  # (Optional) Display the content for debugging, remove in production
+      env:
+        APP_SECRETS: ${{ secrets.APP_SECRETS }}
+    
     - name: Login to Azure
       uses: azure/login@v1
       with:
