@@ -5,4 +5,5 @@ azure-ai-inference
 azure-storage-blob
 pathlib
 yt-dlp
-gunicorn
+wheel
+setuptools
