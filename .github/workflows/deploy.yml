@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.8'  # Match the Python version on your App Service
+        python-version: '3.9'  # Match the Python version on your App Service
 
     - name: Install dependencies
       run: |
