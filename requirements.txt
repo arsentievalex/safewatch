@@ -3,6 +3,5 @@ pandas
 python-dotenv
 azure-ai-inference
 azure-storage-blob
-re
 pathlib
 yt-dlp
