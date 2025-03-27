@@ -1,33 +1,37 @@
 name: Deploy Streamlit App to Azure
-
 on:
   push:
     branches:
-      - main  # Trigger deployment on push to the main bran
-
+      - main
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
-
+    
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'  # Adjust based on your app's Python version
-
+        python-version: '3.9'
+    
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-
+        pip freeze  # This will show exactly what got installed
+    
+    - name: Debug Information
+      run: |
+        python --version
+        pip --version
+        streamlit --version
+    
     - name: Login to Azure
       uses: azure/login@v1
       with:
         creds: ${{ secrets.AZURE_CREDENTIALS }}
-
+    
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
       with:
