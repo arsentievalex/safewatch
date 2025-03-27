@@ -20,16 +20,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install wheel setuptools
         pip install -r requirements.txt
+        pip freeze
     
-    - name: Create .env file from GitHub Secrets
-      run: |
-        echo "$APP_SECRETS" > .env
-      env:
-        APP_SECRETS: |
-          AZURE_BLOB_CONNECTION_STRING=${{ secrets.AZURE_BLOB_CONNECTION_STRING }}
-          AZURE_AI_ENDPOINT=${{ secrets.AZURE_AI_ENDPOINT }}
-          AZURE_AI_KEY=${{ secrets.AZURE_AI_KEY }}
-          AZURE_MODELS_ENDPOINT=${{ secrets.AZURE_MODELS_ENDPOINT }}
+    - name: Create requirements.txt with exact versions
+      run: pip freeze > requirements.txt
     
     - name: Login to Azure
       uses: azure/login@v1
