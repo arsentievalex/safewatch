@@ -15,5 +15,5 @@ COPY . /app
 # Expose the port Streamlit runs on
 EXPOSE 8000
 
-# Command to run the Streamlit app
-ENTRYPOINT ["streamlit", "run", "app.py", "--server.port=8000"]
+# Command to run the app
+CMD ["python3", "app.py"]
