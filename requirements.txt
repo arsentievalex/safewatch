@@ -5,4 +5,3 @@ azure-ai-inference
 azure-storage-blob
 pathlib
 yt-dlp
-python3-venv
