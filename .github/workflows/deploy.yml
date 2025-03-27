@@ -3,36 +3,30 @@ name: Deploy Streamlit App to Azure
 on:
   push:
     branches:
-      - main  # Trigger deployment when pushing to the main branch
+      - main  # Triggers deployment on push to main branch
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v3
+    - name: Checkout code
+      uses: actions/checkout@v3
 
-      - name: Log in to Azure
-        uses: azure/login@v1
-        with:
-          creds: ${{ secrets.AZURE_CREDENTIALS }}
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.8'  # Match the Python version on your App Service
 
-      - name: Deploy ARM template
-        uses: azure/arm-deploy@v1
-        with:
-          subscriptionId: '9b6b2d1a-dc93-4ec5-9e33-d2925a1c9f4c'
-          resourceGroupName: 'rg-arsentiev9393-0970_ai'
-          template: 'infra/template.json'
-          parameters: 'infra/parameters.json'
-          deploymentMode: Incremental
-          # **Fix: Provide the missing parameters for GitHub OIDC**
-          branch: main  # Name of the branch where your ARM template is located
-          oidcUserIdentityName: ${{ github.actor }}  # OIDC identity based on the current GitHub Actions actor
-          repoUrl: ${{ github.repository }}  # GitHub repository URL (e.g., user/repo)
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
 
-      - name: Deploy Streamlit App code to Azure App Service
-        uses: azure/webapps-deploy@v2
-        with:
-          app-name: 'safewatch'  # Match the app name in template.json
-          package: '.'  # Deploy the entire repository
+    - name: Deploy to Azure Web App
+      uses: azure/webapps-deploy@v2
+      with:
+        app-name: ${{ secrets.AZURE_WEBAPP_NAME }}
+        slot-name: 'production'
+        publish-profile: ${{ secrets.AZURE_CREDENTIALS }}
+        package: '.'
