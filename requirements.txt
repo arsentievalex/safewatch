@@ -3,7 +3,6 @@ pandas
 python-dotenv
 azure-ai-inference
 azure-storage-blob
-pathlib
 yt-dlp
 wheel
 setuptools
