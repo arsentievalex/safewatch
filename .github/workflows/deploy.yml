@@ -18,14 +18,12 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        pip install wheel setuptools
         pip install -r requirements.txt
-        pip freeze  # This will show exactly what got installed
+        pip freeze
     
-    - name: Debug Information
-      run: |
-        python --version
-        pip --version
-        streamlit --version
+    - name: Create requirements.txt with exact versions
+      run: pip freeze > requirements.txt
     
     - name: Login to Azure
       uses: azure/login@v1
