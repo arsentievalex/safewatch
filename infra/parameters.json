@@ -6,19 +6,19 @@
             "value": "9b6b2d1a-dc93-4ec5-9e33-d2925a1c9f4c"
         },
         "resourceGroupName": {
-            "value": "hackathon_resource"
+            "value": "rg-arsentiev9393-0970_ai"
         },
         "name": {
-            "value": "safewatch-ai"
+            "value": "safewatch"
         },
         "location": {
             "value": "Canada Central"
         },
         "hostingPlanName": {
-            "value": "ASP-hackathonresource-b550"
+            "value": "ASP-rgarsentiev93930970ai-ad42"
         },
         "serverFarmResourceGroup": {
-            "value": "hackathon_resource"
+            "value": "rg-arsentiev9393-0970_ai"
         },
         "alwaysOn": {
             "value": false
@@ -30,10 +30,10 @@
             "value": "TenantReuse"
         },
         "sku": {
-            "value": "Free"
+            "value": "Basic (B1)"
         },
         "skuCode": {
-            "value": "F1"
+            "value": "B1"
         },
         "numberOfWorkers": {
             "value": "1"
