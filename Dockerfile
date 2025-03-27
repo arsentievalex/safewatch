@@ -1,5 +1,8 @@
 FROM python:3.9-slim
 
+# Install dependencies
+RUN apt-get update && apt-get install -y python3-venv
+
 WORKDIR /app
 
 # Copy requirements and install dependencies
