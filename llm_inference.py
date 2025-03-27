@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 def get_deepseek_response(video_title, user_triggers):
-    endpoint = os.getenv("AZURE_AI_ENDPOINT")
+    endpoint = os.getenv("AZURE_MODELS_ENDPOINT")
     model_name = "DeepSeek-R1"
 
     client = ChatCompletionsClient(
