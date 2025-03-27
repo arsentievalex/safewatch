@@ -3,7 +3,7 @@ name: Deploy Streamlit App to Azure
 on:
   push:
     branches:
-      - main  # Trigger deployment on push to the main branch
+      - main  # Trigger deployment on push to the main bran
 
 jobs:
   deploy:
