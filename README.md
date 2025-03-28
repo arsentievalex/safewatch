@@ -2,6 +2,8 @@
 
 SafeWatch is a Streamlit-based web application that provides personalized trigger warnings for video content. It analyzes videos for potentially triggering content and provides AI-powered insights for users with specific sensitivities.
 
+<img src="https://i.postimg.cc/vmvQdSHS/Screenshot-2025-03-27-at-22-28-52.png"/>
+
 ## Features
 
 - **User Profiles**: Multiple sample users for demo purposes
