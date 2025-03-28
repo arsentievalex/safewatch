@@ -10,6 +10,10 @@ SafeWatch is a Streamlit-based web application that provides personalized trigge
 - **Real-time AI Insights**: AI-powered explanations of potentially disturbing content
 - **Personalized Warnings**: Custom trigger warnings based on user preferences
 
+## Architecture
+
+<img src="https://i.postimg.cc/Y2nJYBsx/safewatch.png"/>
+
 ## Prerequisites
 
 - Python 3.9+
