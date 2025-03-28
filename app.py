@@ -8,7 +8,7 @@ import json
 from dotenv import load_dotenv
 import os
 
-# Page configuration
+# Page configurations
 st.set_page_config(
     page_title="SafeWatch",
     layout="wide",
